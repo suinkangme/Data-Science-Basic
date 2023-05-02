@@ -1,2 +1,5 @@
-# data_project_practice
-data science project from data camp 
+# Data Projects for Practice
+<br>
+
+Data Analysis projects for Practice & Learn! 
+- Used Jupyter Notebook, Python(Numpy, Pandas, ... ) 
