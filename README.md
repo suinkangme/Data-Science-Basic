@@ -2,7 +2,7 @@
 <br>
 
 Data Analysis projects for Practice & Learn! 
-- Used Jupyter Notebook, Python(Numpy, Pandas, ... ) 
+- Used Jupyter Notebook, Python(Numpy, Pandas, Scikit-Learn ... ) 
 
 <br>
 
