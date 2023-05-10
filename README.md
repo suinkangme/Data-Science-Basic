@@ -1,4 +1,4 @@
-# Data Projects for Practice
+# Data Science Projects for Practice
 <br>
 
 Data Analysis projects for Practice & Learn! 
