@@ -29,4 +29,4 @@ Data Analysis projects for Practice & Learn!
 <br>
 
 ### Matplotlib <img src="https://img.shields.io/badge/matplotlib-9999FF?style=for-the-badge&logo=python&logoColor=white">
-- data visualization
+- data visualization tool
