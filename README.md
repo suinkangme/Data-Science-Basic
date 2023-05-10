@@ -16,6 +16,9 @@ Data Analysis projects for Practice & Learn!
 -  mutual conversion between different types of data(numpy ndarray, list, dictionary <-> DataFrame).
 
 
+### Scikit-Learn <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
+- Machine Learning Library
+
 <br>
 
 ### Matplotlib <img src="https://img.shields.io/badge/matplotlib-9999FF?style=for-the-badge&logo=python&logoColor=white">
