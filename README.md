@@ -31,4 +31,5 @@ Data Analysis projects for Practice & Learn!
 ### Data Visualization Tools
 
 * Matplotlib <img src="https://img.shields.io/badge/matplotlib-9999FF?style=for-the-badge&logo=python&logoColor=white">
+* Seaborn
 
