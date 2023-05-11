@@ -1,0 +1,14 @@
+ Pre-processing 
+
+[ Encoding ]
+: the data in machine leaning algorithm should be represented with num value (NOT String!)
+Therefore, String feature should be encoded/converted to num value
+-> Label Encoding
+
+
+-> One-Hot Encoding
+
+
+
+
+[ Scaling ]
