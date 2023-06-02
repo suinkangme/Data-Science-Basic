@@ -3,7 +3,7 @@
 
 Data Analysis projects for Practice & Learn! 
 - Used Jupyter Notebook, Python(Numpy, Pandas, Scikit-Learn ... ) 
-- *Most of them are written from Scratch from many resources(Udemy, Coursera, Youtube, Inflearn, etc) 
+- Most of them are written from Scratch from many resources(Udemy, Coursera, Youtube, Inflearn, etc) 
 
 <br>
 
