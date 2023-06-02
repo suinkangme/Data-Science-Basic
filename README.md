@@ -8,13 +8,14 @@ Data Analysis projects for Practice & Learn!
 
 ### Numpy <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
 - ndarray : shape | reshape | indexing | slicing
+- Used in Deep Learning
 
 
 <br>
 
 ### Pandas <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
 -  mutual conversion between different types of data(numpy ndarray, list, dictionary <-> DataFrame) | aggregation | groupby
-
+- Only can use for 2-dimensional dataset (table)
 
 <br>
 
