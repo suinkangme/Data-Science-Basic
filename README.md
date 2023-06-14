@@ -1,7 +1,6 @@
-# Data Science Projects for Learning ML
+# Leaning Data Science (ML)
 <br>
 
-Data Analysis projects for Practice & Learn! 
 - Used Jupyter Notebook, Python(Numpy, Pandas, Scikit-Learn ... )
 - Preprocess the data and train the machine learning models and then predict the result! 
 - Most of them are written from Scratch from many resources(Udemy, Coursera, Youtube, Inflearn, etc)
