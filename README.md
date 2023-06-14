@@ -30,7 +30,7 @@
 
 <br>
 
-### Data Visualization Tools
+### Data Viz Tools
 
 * Matplotlib <img src="https://img.shields.io/badge/matplotlib-9999FF?style=for-the-badge&logo=python&logoColor=white">
 * Seaborn <img src="https://img.shields.io/badge/seaborn-FEA1A1?style=for-the-badge&logo=python&logoColor=white">
