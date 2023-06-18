@@ -15,7 +15,7 @@
 <br>
 
 ### Pandas <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
--  mutual conversion between different types of data(numpy ndarray, list, dictionary <-> DataFrame) | aggregation | groupby
+- mutual conversion between different types of data(numpy ndarray, list, dictionary <-> DataFrame) | aggregation | groupby
 - Only can use for 2-dimensional dataset (table)
 
 <br>
@@ -35,5 +35,7 @@
 ### Data Viz Tools
 
 * Matplotlib <img src="https://img.shields.io/badge/matplotlib-9999FF?style=for-the-badge&logo=python&logoColor=white">
+- only capable for 2D array
+  
 * Seaborn <img src="https://img.shields.io/badge/seaborn-FEA1A1?style=for-the-badge&logo=python&logoColor=white">
 
