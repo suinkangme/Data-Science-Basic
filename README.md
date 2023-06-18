@@ -24,7 +24,9 @@
 - Supervised Learning : Framework(Estmator, fit(), predict() 
 - Estimator -> Classifier | Regressor
 * Train : fit()
-* Predict : predict() 
+* Train & feature Scaling : fit_transform()
+* Predict : predict()
+* Train & Predict : train_predict() -> only in K-Means Clustering 
 
 
 
