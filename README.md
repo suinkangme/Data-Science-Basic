@@ -35,7 +35,7 @@
 ### Data Viz Tools
 
 * Matplotlib <img src="https://img.shields.io/badge/matplotlib-9999FF?style=for-the-badge&logo=python&logoColor=white">
-- only capable for 2D array
+> only capable for 2D array
   
 * Seaborn <img src="https://img.shields.io/badge/seaborn-FEA1A1?style=for-the-badge&logo=python&logoColor=white">
 
