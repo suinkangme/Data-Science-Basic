@@ -1,4 +1,4 @@
-# Leaning Data Science (ML)
+# Leaning Data Science (ML & DL)
 <br>
 
 - Used Jupyter Notebook, Python(Numpy, Pandas, Scikit-Learn ... )
@@ -28,6 +28,9 @@
 * Predict : predict()
 * Train & Predict : train_predict() -> only in K-Means Clustering 
 
+
+### TensorFlow 
+- Deep Learning 
 
 
 <br>
