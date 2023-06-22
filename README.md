@@ -31,7 +31,8 @@
 <br>
 
 ### TensorFlow <img src="https://img.shields.io/badge/tensorflow-%FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white">
-- Deep Learning 
+- Deep Learning framework : Keras (TensorFlow 2.0 above)
+- ANN | CNN 
 
 
 <br>
