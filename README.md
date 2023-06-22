@@ -28,6 +28,7 @@
 * Predict : predict()
 * Train & Predict : train_predict() -> only in K-Means Clustering 
 
+<br>
 
 ### TensorFlow 
 - Deep Learning 
