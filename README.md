@@ -9,7 +9,6 @@
 
 ### Numpy <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
 - ndarray : shape | reshape | indexing | slicing
-- Used in Deep Learning
 
 
 <br>
