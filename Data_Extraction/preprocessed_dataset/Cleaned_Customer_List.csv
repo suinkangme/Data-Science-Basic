@@ -1,0 +1,1001 @@
+first_name,last_name,gender,past_3_years_bike_related_purchases,DOB,job_title,job_industry_category,wealth_segment,owns_car
+Chickie,Brister,Male,86,12-07-1957,General Manager,Manufacturing,Mass Customer,Yes
+Morly,Genery,Male,69,22-03-1970,Structural Engineer,Property,Mass Customer,No
+Ardelis,Forrester,Female,10,28-08-1974,Senior Cost Accountant,Financial Services,Affluent Customer,No
+Lucine,Stutt,Female,64,28-01-1979,Account Representative III,Manufacturing,Affluent Customer,Yes
+Melinda,Hadlee,Female,34,21-09-1965,Financial Analyst,Financial Services,Affluent Customer,No
+Druci,Brandli,Female,39,29-04-1951,Assistant Media Planner,Entertainment,High Net Worth,Yes
+Rutledge,Hallt,Male,23,06-10-1976,Compensation Analyst,Financial Services,Mass Customer,No
+Nancie,Vian,Female,74,27-12-1972,Human Resources Assistant II,Retail,Mass Customer,Yes
+Duff,Karlowicz,Male,50,28-04-1972,Speech Pathologist,Manufacturing,Mass Customer,Yes
+Barthel,Docket,Male,72,02-08-1985,Accounting Assistant IV,IT,Mass Customer,Yes
+Rockwell,Matson,Male,94,01-01-1995,Programmer Analyst I,Retail,High Net Worth,No
+Wheeler,Winward,Male,48,30-08-1999,Environmental Specialist,Manufacturing,Mass Customer,No
+Olag,,Male,60,13-05-1990,Human Resources Manager,Telecommunications,Mass Customer,No
+Melba,Spellacy,Female,38,09-12-1976,VP Marketing,Health,Mass Customer,No
+Mandie,Feares,Female,32,19-04-1964,Clinical Specialist,Health,Mass Customer,No
+Dukie,Swire,Male,88,31-03-1954,,Manufacturing,Affluent Customer,Yes
+Marcelia,Monkleigh,Female,61,22-08-1993,Associate Professor,Manufacturing,Mass Customer,Yes
+Winnifred,Beswetherick,Female,83,08-06-1976,Actuary,Financial Services,Mass Customer,No
+Odilia,Quick,Female,65,09-11-1938,General Manager,Manufacturing,Affluent Customer,Yes
+Karly,Willavize,Female,2,12-08-1954,Internal Auditor,Manufacturing,High Net Worth,No
+Teddie,Burchill,Male,11,21-12-1968,Programmer I,Manufacturing,Mass Customer,Yes
+Gaston,Dallaghan,Male,44,29-09-1993,Financial Analyst,Financial Services,Mass Customer,Yes
+Otis,Ottey,Male,26,05-02-1998,Quality Engineer,,Mass Customer,No
+Tabbatha,Averill,Female,5,17-12-1977,Quality Control Specialist,,Affluent Customer,Yes
+Brena,Schnitter,Female,78,11-10-1982,Account Executive,Manufacturing,Mass Customer,No
+Rourke,Gillbard,Male,11,03-08-1945,,Property,Mass Customer,No
+Dyane,Burwell,Female,19,27-06-1952,Engineer II,Retail,Mass Customer,Yes
+Claudine,Barstowk,Female,71,20-07-1966,Nurse,Property,High Net Worth,Yes
+Blinnie,Roze,Female,84,10-12-1960,Librarian,Entertainment,High Net Worth,No
+Rhona,De Freyne,Female,45,22-11-1960,,Health,High Net Worth,No
+Sharron,Claibourn,Female,62,26-01-1980,,Financial Services,High Net Worth,Yes
+Brien,Heaton,Male,70,28-11-1951,Clinical Specialist,Health,Mass Customer,Yes
+Sybilla,MacCart,Female,88,15-01-1987,Paralegal,Financial Services,Mass Customer,Yes
+Mikel,McNess,Male,71,22-09-1981,Nurse,,Mass Customer,No
+Maisie,Maddox,Female,27,09-05-1977,Assistant Manager,Financial Services,Affluent Customer,No
+Arleen,Casbolt,Female,48,10-05-1975,Senior Quality Engineer,Financial Services,Affluent Customer,Yes
+Farlie,Petford,Male,76,25-03-1968,Recruiting Manager,,High Net Worth,No
+Mitchell,MacCague,Male,58,11-04-1979,,Manufacturing,Mass Customer,No
+Garik,Whitwell,Male,44,13-06-1955,,Property,Mass Customer,Yes
+Antonin,Britt,Male,64,28-08-1993,,Manufacturing,Affluent Customer,Yes
+Vinny,Incogna,Female,73,13-02-1953,,Health,High Net Worth,No
+Colene,Fishleigh,Female,24,14-03-1985,Design Engineer,Financial Services,Mass Customer,No
+Neile,Argent,Female,79,25-10-1946,,Retail,Mass Customer,No
+Corinna,Suggey,Female,52,18-09-1966,Design Engineer,,Affluent Customer,No
+Brooke,Arling,Male,76,05-12-1961,,,High Net Worth,No
+Gipsy,Ewestace,Female,29,30-08-1956,Business Systems Development Analyst,Retail,High Net Worth,Yes
+Sheena,Kybbye,Female,14,16-07-1956,Paralegal,Financial Services,Affluent Customer,Yes
+Jobina,Gobourn,Female,85,04-12-1994,VP Quality Control,,High Net Worth,Yes
+Gale,Disbrow,Female,59,14-05-1977,Cost Accountant,Financial Services,Mass Customer,Yes
+Thaxter,Kingsbury,Male,12,03-05-1950,Product Engineer,Argiculture,Mass Customer,No
+Heinrick,Shilstone,Male,60,11-02-1978,,Manufacturing,Affluent Customer,No
+Taylor,Steuhlmeyer,Male,62,22-03-1999,Paralegal,Financial Services,Affluent Customer,Yes
+Griswold,Kelsall,Male,55,19-12-1993,Social Worker,Health,High Net Worth,Yes
+Odessa,Mc Andrew,Female,97,01-12-1981,,Property,Mass Customer,No
+Lavena,Seekings,Female,87,25-03-1995,Payment Adjustment Coordinator,Retail,Mass Customer,No
+Martelle,Tuppeny,Female,52,03-02-1981,Marketing Assistant,Manufacturing,Mass Customer,No
+Briant,Ladley,Male,75,17-12-1979,Recruiter,Argiculture,Mass Customer,No
+Marylou,Kirkup,Female,51,31-10-1972,VP Product Management,,Mass Customer,No
+Whittaker,,Male,64,29-07-1966,Media Manager III,,Mass Customer,Yes
+Normy,Goodinge,U,5,,Associate Professor,IT,Mass Customer,No
+Lorrie,Antonelli,Male,47,11-02-1983,Cost Accountant,Financial Services,High Net Worth,Yes
+Jedediah,Kedie,Male,31,29-12-1971,Developer I,Argiculture,Mass Customer,Yes
+Kaine,Smallcombe,Male,59,06-02-1942,Senior Financial Analyst,Financial Services,High Net Worth,No
+Loise,Iltchev,Female,70,18-03-1967,Electrical Engineer,Manufacturing,High Net Worth,Yes
+Cristen,Maroney,Female,22,21-11-1999,Accountant IV,IT,High Net Worth,Yes
+Dorothy,Barnardo,Female,58,01-02-1983,Human Resources Manager,Retail,High Net Worth,No
+Rosmunda,Duxbarry,Female,69,20-07-1996,Executive Secretary,Property,Affluent Customer,Yes
+Rozamond,Riha,Female,54,07-10-1984,Account Representative I,Manufacturing,Affluent Customer,Yes
+Gunner,Petti,Male,62,08-06-1999,Executive Secretary,Financial Services,High Net Worth,Yes
+Vivienne,Crayden,Female,82,18-09-1988,Associate Professor,,High Net Worth,Yes
+Sherilyn,Canero,Female,11,03-08-1996,Dental Hygienist,Health,High Net Worth,Yes
+Bessie,Roscow,Female,78,04-08-1994,GIS Technical Architect,Financial Services,Mass Customer,No
+Kevina,Ferandez,Female,73,21-09-1999,Assistant Professor,Financial Services,High Net Worth,No
+Yancy,Clementet,Male,5,16-02-1968,Mechanical Systems Engineer,,High Net Worth,No
+Mabelle,Wellbelove,Female,76,21-04-1958,,Financial Services,Affluent Customer,Yes
+Hasheem,Groucock,Male,98,17-09-1974,Budget/Accounting Analyst IV,Manufacturing,High Net Worth,Yes
+Tobias,Woodhams,Male,0,15-04-1961,Research Nurse,Health,Mass Customer,No
+Glennis,Flintoff,Female,36,22-10-1956,Speech Pathologist,Health,Affluent Customer,Yes
+Chanda,Mensler,Female,15,14-01-1972,Computer Systems Analyst IV,Manufacturing,Mass Customer,Yes
+Katheryn,Kinner,Female,15,28-11-1973,Analyst Programmer,Entertainment,High Net Worth,No
+Sumner,Carrivick,Male,53,09-04-1995,Desktop Support Technician,Manufacturing,Mass Customer,No
+Valerie,Pickover,Female,34,08-09-1965,Editor,Financial Services,Mass Customer,No
+Esther,Rooson,Female,14,22-02-1981,,Financial Services,Mass Customer,No
+Gardie,Crellim,Male,58,12-09-1975,Biostatistician IV,Manufacturing,High Net Worth,No
+Sean,O'Loughlin,Male,48,22-03-1961,Database Administrator III,Manufacturing,High Net Worth,Yes
+Pietra,Buckleigh,Female,9,29-04-1949,Engineer III,,High Net Worth,No
+Marysa,Rouchy,Female,8,15-02-1999,Assistant Media Planner,Entertainment,Affluent Customer,No
+Kahaleel,,Male,5,01-11-1942,GIS Technical Architect,,High Net Worth,No
+Ossie,Midden,Male,49,10-02-1950,Physical Therapy Assistant,Manufacturing,Mass Customer,Yes
+Sid,Carlone,Male,24,18-08-1971,Structural Engineer,Health,Affluent Customer,No
+Ludovico,Juster,Male,93,19-04-1992,Environmental Specialist,,Affluent Customer,No
+Patricia,Everix,Female,34,19-02-1978,Director of Sales,Health,Mass Customer,No
+Andromache,Bonafacino,Female,84,01-09-1977,,Retail,Mass Customer,No
+Levy,Abramamov,Male,94,21-09-1952,Teacher,,Affluent Customer,Yes
+Nobe,McAughtry,Male,25,14-12-1978,,,Mass Customer,No
+Jehu,Prestedge,Male,91,20-10-1999,,Manufacturing,High Net Worth,Yes
+Symon,Mawne,Male,18,08-02-1943,Human Resources Assistant IV,Property,Mass Customer,Yes
+Karlik,Penchen,Male,60,31-10-1994,Nurse Practicioner,Retail,Mass Customer,No
+Bengt,Bilson,Male,26,02-11-1972,Structural Engineer,Manufacturing,High Net Worth,No
+Evangelin,Boc,Female,30,09-05-2000,Structural Analysis Engineer,Manufacturing,High Net Worth,Yes
+Hanny,Treven,Female,84,22-01-1991,Associate Professor,Retail,Mass Customer,No
+Gina,Mallon,Female,56,11-02-1994,Dental Hygienist,Health,Mass Customer,No
+Reynold,Elman,Male,19,18-01-1940,Marketing Manager,Manufacturing,Mass Customer,No
+Flossy,Concannon,Female,64,20-10-1980,Staff Accountant IV,Financial Services,Affluent Customer,No
+Cristen,Wiltshire,Female,59,20-10-1961,VP Sales,Financial Services,High Net Worth,Yes
+Griffith,Escot,Male,50,23-10-1946,Accountant III,IT,Mass Customer,Yes
+Jamie,Jiruca,Female,21,16-06-1963,Recruiting Manager,Argiculture,Mass Customer,No
+Lyon,Brittan,Male,14,23-04-1972,Sales Representative,Retail,High Net Worth,No
+Aridatha,Sephton,Female,95,22-10-1961,Human Resources Assistant II,,Mass Customer,No
+Michal,Bryan,Female,1,09-11-1969,,Manufacturing,Mass Customer,Yes
+Franciska,Stigell,Female,95,15-11-1968,Food Chemist,Health,Mass Customer,Yes
+Jordan,Clampe,Male,37,09-12-1939,Staff Scientist,Financial Services,Mass Customer,Yes
+David,Napoleon,Male,72,05-11-1961,Structural Engineer,,High Net Worth,No
+Meriel,Tapp,Female,0,13-08-1995,VP Sales,IT,Mass Customer,No
+Dolley,Starmont,Female,53,08-11-1977,Geologist IV,Manufacturing,Affluent Customer,No
+Frederik,Milan,Male,45,13-11-1997,,Health,Mass Customer,No
+Rollo,Louedey,Male,64,09-07-1946,Information Systems Manager,Telecommunications,Affluent Customer,Yes
+Jerrine,Cosbey,Female,21,11-01-1978,Junior Executive,Financial Services,High Net Worth,Yes
+Roddy,Rubinshtein,Male,37,08-10-1987,Nurse Practicioner,Retail,Mass Customer,Yes
+Viki,Coutts,Female,2,14-12-1952,Automation Specialist II,Property,Mass Customer,Yes
+Ashby,Bispham,Male,71,29-10-1981,Software Consultant,Retail,Affluent Customer,No
+Alexander,Broadbent,Male,57,28-05-1997,Desktop Support Technician,,Mass Customer,No
+Teddy,Lagadu,Female,86,20-07-1969,Design Engineer,,High Net Worth,No
+Peria,Rantoull,Female,3,13-03-1975,Financial Analyst,Financial Services,Mass Customer,No
+Ludvig,Andren,Male,44,22-02-1941,Media Manager III,,High Net Worth,Yes
+Elsworth,Abbitt,Male,71,08-02-1956,,Health,Mass Customer,Yes
+Rebeca,Aggas,Female,66,27-02-1953,Social Worker,Health,Affluent Customer,No
+Ricki,Dobrowski,Male,13,10-03-1975,Civil Engineer,Manufacturing,Mass Customer,Yes
+Georgetta,Lovett,Female,42,02-02-1940,Editor,Retail,Mass Customer,No
+Bambi,Cogger,Female,51,12-07-1990,Design Engineer,Retail,Affluent Customer,Yes
+Aurie,Rhead,Female,78,28-07-1962,Geological Engineer,Manufacturing,Affluent Customer,Yes
+Farris,Skettles,Male,38,03-07-1965,Payment Adjustment Coordinator,,Mass Customer,Yes
+Sharline,Abyss,Female,11,18-03-1960,,,Mass Customer,Yes
+Nowell,Preddy,Male,29,23-07-1985,,Manufacturing,Mass Customer,No
+Lacy,Drance,Female,27,05-02-1978,Graphic Designer,Manufacturing,Affluent Customer,Yes
+Padraig,Snel,Male,89,08-11-1970,Staff Accountant II,,Mass Customer,No
+Malorie,Votier,Female,90,29-05-1990,Graphic Designer,Manufacturing,Affluent Customer,No
+Shepperd,Ricards,Male,28,27-09-1967,Social Worker,Health,Mass Customer,Yes
+Daryl,Pauncefort,Female,12,18-06-1979,Community Outreach Specialist,Financial Services,Mass Customer,Yes
+Norina,Blakeway,Female,60,11-02-1980,Programmer Analyst II,Property,Mass Customer,Yes
+My,Chaston,Male,92,16-07-1966,Desktop Support Technician,Manufacturing,Affluent Customer,Yes
+Isak,Bergstram,Male,14,08-03-2001,Pharmacist,Health,Affluent Customer,Yes
+Grannie,Cracker,Male,28,06-03-1949,VP Marketing,Retail,Mass Customer,Yes
+Welby,Lourenco,Male,6,27-12-1975,Senior Cost Accountant,Financial Services,High Net Worth,Yes
+Glenn,Casbourne,Female,4,08-08-1981,Senior Editor,Manufacturing,Mass Customer,No
+Nadiya,Balasini,Female,40,05-11-1950,Sales Associate,Financial Services,Mass Customer,No
+Tyne,Coate,Female,82,15-07-1965,Developer II,Manufacturing,Mass Customer,No
+Christie,Anders,Male,38,02-10-1969,VP Marketing,Retail,Mass Customer,No
+Agnella,Capener,Female,58,21-05-1969,Teacher,Health,High Net Worth,No
+Bernardine,Delmonti,Female,39,31-03-1971,,Property,Mass Customer,No
+Daisy,Spowart,Female,60,18-12-1967,Staff Accountant I,Health,Affluent Customer,Yes
+Denys,Minshall,Female,30,26-12-1961,Environmental Tech,Manufacturing,Affluent Customer,Yes
+Archibald,Blessed,Male,61,10-02-1969,VP Sales,Financial Services,Mass Customer,Yes
+Feodor,Englishby,Male,54,14-08-1961,Account Coordinator,Health,Mass Customer,No
+Skippie,Yearsley,Male,6,04-09-1956,Compensation Analyst,Financial Services,Mass Customer,No
+Bill,,Female,74,24-04-1963,Human Resources Assistant II,Property,Mass Customer,Yes
+Tessa,Friese,Female,89,24-10-1976,Health Coach II,Financial Services,Mass Customer,No
+Roseanne,Caruth,Female,16,25-05-1957,Programmer Analyst III,Health,Mass Customer,No
+Tedra,Goodbanne,Female,4,15-01-1978,Senior Quality Engineer,,Mass Customer,Yes
+Roberto,Harme,Male,27,11-06-1951,Environmental Tech,,High Net Worth,No
+Nichole,Leisman,Male,37,07-08-1986,Geologist III,Property,Affluent Customer,No
+Amil,Ennor,Female,23,04-08-1995,Health Coach II,Health,Mass Customer,Yes
+Shawna,Hinrichsen,Female,60,27-08-1969,Assistant Professor,Manufacturing,Affluent Customer,Yes
+Fonsie,Levane,Male,96,10-07-1951,Account Representative III,,High Net Worth,Yes
+Emilie,Brody,Female,3,22-05-1979,Director of Sales,,Mass Customer,Yes
+Robert,Corkill,Male,55,12-03-1976,Clinical Specialist,Health,Mass Customer,No
+Elvira,Kurten,Female,65,18-03-1973,Assistant Professor,Financial Services,High Net Worth,No
+Juliana,Mitchenson,Female,55,05-01-1989,Environmental Tech,Manufacturing,Mass Customer,Yes
+Regine,Bownes,Female,99,01-07-1952,Senior Developer,Retail,Affluent Customer,No
+Abner,Fraschetti,Male,33,23-01-1986,Staff Scientist,Argiculture,Affluent Customer,No
+Alvira,Coulman,Female,42,05-06-1955,Account Representative II,,Affluent Customer,No
+Sawyer,Sponton,Male,36,22-02-1956,Help Desk Technician,Property,Mass Customer,Yes
+Feodor,Vickers,Male,60,18-11-1989,VP Quality Control,Financial Services,Mass Customer,Yes
+Paten,Cayet,Male,56,19-02-1995,Assistant Manager,Manufacturing,Affluent Customer,Yes
+Loria,Tappington,Female,72,06-09-1955,Research Assistant IV,Property,Mass Customer,No
+Tanya,Kiefer,Female,54,05-07-1992,Speech Pathologist,Telecommunications,High Net Worth,No
+Devonne,Alderwick,Female,79,29-01-1939,Research Associate,,High Net Worth,Yes
+Omero,McDonand,Male,51,01-04-1952,Software Consultant,Manufacturing,Mass Customer,No
+Iain,Haversham,Male,92,26-12-1950,Sales Representative,Retail,Mass Customer,Yes
+Keriann,Newham,Female,71,26-03-1975,Assistant Manager,Financial Services,Mass Customer,No
+Conroy,Rappaport,Male,39,08-01-1965,Assistant Manager,Health,High Net Worth,No
+Dorian,Rustman,Male,78,09-12-1974,Junior Executive,Manufacturing,Mass Customer,No
+Quillan,Guinane,Male,36,24-03-1946,Community Outreach Specialist,,High Net Worth,Yes
+Harlin,Mazin,Male,34,25-03-1974,Computer Systems Analyst I,Manufacturing,Mass Customer,Yes
+Eustacia,Dornan,Female,68,02-09-1985,Account Representative IV,Property,Mass Customer,No
+Maury,Galego,Male,65,27-07-1992,Social Worker,Health,High Net Worth,Yes
+Reggie,Kernar,Female,26,28-11-1971,Senior Editor,Financial Services,High Net Worth,No
+Brigitte,Whellams,Female,67,09-05-1973,Payment Adjustment Coordinator,,Mass Customer,Yes
+Kinna,Kollasch,Female,7,09-11-1986,Safety Technician I,Property,High Net Worth,No
+Maurizio,Comi,Male,74,30-05-1996,VP Product Management,IT,Affluent Customer,No
+Elbertina,Fendley,Female,32,27-03-1992,Physical Therapy Assistant,Property,Affluent Customer,No
+Franklin,Wohler,Male,55,16-10-1938,Clinical Specialist,Health,Mass Customer,Yes
+Allyson,Petchell,Female,16,19-03-1970,Human Resources Manager,Telecommunications,High Net Worth,No
+Ermentrude,Heindle,Female,47,02-08-1969,GIS Technical Architect,Argiculture,Mass Customer,No
+Alanna,Lerway,Female,26,05-01-1944,Dental Hygienist,Health,Mass Customer,Yes
+Vincent,Jopke,Male,6,10-03-1972,Analog Circuit Design manager,Property,Affluent Customer,No
+Mandie,Jeffryes,Female,60,16-02-1981,Business Systems Development Analyst,,High Net Worth,No
+Collete,Dory,Female,66,09-01-1990,Information Systems Manager,,High Net Worth,No
+Leonid,Dorricott,Male,44,18-11-1993,Environmental Tech,,Affluent Customer,No
+Charlena,Berney,Female,55,02-01-1966,Geological Engineer,Manufacturing,High Net Worth,Yes
+Alfonso,Massel,Male,70,05-12-1940,,,Mass Customer,Yes
+Engracia,Dobbs,Female,84,19-04-1959,,Health,Mass Customer,No
+Glyn,,Male,47,13-02-1945,General Manager,Manufacturing,Affluent Customer,Yes
+Rosemonde,Cartwight,Female,44,20-10-1952,Analyst Programmer,Retail,Mass Customer,Yes
+Alano,Satchel,Male,2,26-11-1998,Recruiting Manager,,Mass Customer,No
+Corrine,Baribal,Female,19,12-10-1948,Senior Sales Associate,,Affluent Customer,Yes
+Benoit,Harniman,Male,31,27-08-1976,Research Assistant II,Telecommunications,Affluent Customer,No
+Jeanne,Darte,Female,70,18-08-1955,,,Mass Customer,Yes
+Jenelle,Fearnill,Female,12,03-01-1958,Social Worker,Health,High Net Worth,No
+Tannie,Gambrell,Male,92,25-05-1967,Financial Analyst,Financial Services,Affluent Customer,No
+Mick,Macewan,Male,32,12-12-1967,Senior Cost Accountant,Financial Services,Mass Customer,No
+Abbie,Oldman,Male,82,26-11-1983,,Health,High Net Worth,Yes
+Tabbie,Curner,Male,12,13-03-1997,Chief Design Engineer,Retail,Mass Customer,No
+Shane,Killen,Male,28,16-10-1956,Account Executive,Entertainment,High Net Worth,No
+Roberta,Goodale,Female,9,28-02-1947,Information Systems Manager,Property,Mass Customer,Yes
+Kippy,Barabisch,Male,11,07-04-2000,Legal Assistant,Manufacturing,Mass Customer,No
+Rosalinde,Cubuzzi,Female,50,04-09-1997,Business Systems Development Analyst,,Mass Customer,No
+Cami,Barnbrook,Female,8,01-01-1963,Occupational Therapist,Health,Affluent Customer,Yes
+Dorian,Stollen,Male,78,16-02-1980,Statistician I,Financial Services,Mass Customer,Yes
+Hunfredo,Hayball,Male,7,15-04-1994,,IT,Affluent Customer,No
+Giorgi,O'Shirine,Male,68,20-06-1981,Payment Adjustment Coordinator,Retail,Mass Customer,Yes
+Kort,Disley,Male,66,05-02-1979,Technical Writer,Health,Mass Customer,Yes
+Gretna,Thredder,Female,62,08-01-1966,,,Mass Customer,No
+Tobiah,Heinsius,Male,66,25-01-2000,Chief Design Engineer,Health,High Net Worth,No
+Wallace,Newart,Male,91,06-12-1977,,IT,Mass Customer,No
+Hersh,Stubbert,Male,0,25-06-2000,Technical Writer,Manufacturing,Mass Customer,Yes
+Hatti,Carletti,U,35,,Legal Assistant,IT,Affluent Customer,Yes
+Wyn,Saynor,Male,54,22-06-1964,Cost Accountant,Financial Services,High Net Worth,No
+Maribeth,Stivani,Female,46,13-11-1954,Associate Professor,Financial Services,Mass Customer,No
+Abigale,Sives,Female,48,13-12-1963,VP Marketing,Health,Affluent Customer,Yes
+Gothart,Artus,Male,52,31-05-1978,Health Coach IV,Health,Mass Customer,Yes
+Danny,Bodle,Male,50,24-09-1943,Statistician I,Manufacturing,Mass Customer,Yes
+Vittorio,Boxen,Male,94,15-08-1965,Mechanical Systems Engineer,,Mass Customer,No
+Deborah,Petrovsky,Female,53,14-07-1943,Teacher,Property,Mass Customer,No
+Agace,Hedge,Female,25,23-07-1997,Media Manager II,,Mass Customer,Yes
+Rolland,Esmead,Male,41,13-07-1940,,Health,Affluent Customer,No
+Latrena,Walklate,Female,97,05-10-1943,Mechanical Systems Engineer,Telecommunications,High Net Worth,Yes
+Mariquilla,Springthorpe,Female,30,04-04-1939,Director of Sales,,Mass Customer,Yes
+Leticia,Danovich,Female,84,02-10-1941,Design Engineer,Entertainment,Mass Customer,Yes
+Harman,Lynds,Male,4,27-05-1961,Professor,,Mass Customer,Yes
+Farra,Matyushkin,Female,18,24-01-1974,VP Quality Control,Manufacturing,High Net Worth,Yes
+Robenia,Monks,Female,94,08-05-1959,Nurse Practicioner,Manufacturing,Mass Customer,No
+Roman,Eastwood,Male,57,21-09-1969,Associate Professor,Manufacturing,Affluent Customer,Yes
+Solomon,Bruck,Male,29,15-11-1957,Junior Executive,Health,Mass Customer,No
+Krystyna,Airey,Female,2,05-09-1950,Safety Technician II,,Mass Customer,Yes
+Katharine,Redbourn,Female,8,11-09-1967,Recruiter,Manufacturing,Affluent Customer,Yes
+Cammy,Stoneham,Female,74,02-05-1963,Business Systems Development Analyst,Financial Services,High Net Worth,No
+Ellsworth,Andrieux,Male,49,26-04-1971,Senior Cost Accountant,Financial Services,Affluent Customer,Yes
+Federico,Leuty,Male,59,11-12-1978,Product Engineer,Property,High Net Worth,Yes
+Ferdy,Hornung,Male,57,14-05-1974,Analog Circuit Design manager,Entertainment,High Net Worth,No
+Sunny,Christescu,Female,90,12-03-1975,Cost Accountant,Financial Services,Mass Customer,No
+Shadow,Yakutin,Male,85,03-02-1967,Software Test Engineer IV,Health,Affluent Customer,Yes
+Sharai,Priddie,Female,13,16-01-1961,Sales Representative,Retail,Mass Customer,No
+Celeste,Fretson,Female,91,16-09-1980,Product Engineer,IT,Mass Customer,No
+Lea,Ilyinski,Female,75,25-09-1997,Structural Analysis Engineer,Financial Services,High Net Worth,No
+Dyann,Olechnowicz,Female,17,17-07-1939,Nuclear Power Engineer,Manufacturing,Mass Customer,No
+Delly,Sunman,Female,49,11-04-1959,Account Coordinator,Retail,Mass Customer,No
+Malvin,Ryhorovich,Male,37,03-03-1962,Quality Control Specialist,,Mass Customer,No
+Tanya,Hamberston,Female,45,25-09-2000,Product Engineer,,Mass Customer,Yes
+Kaela,Romaines,Female,41,27-11-1971,Geological Engineer,Manufacturing,High Net Worth,No
+Evonne,Bembridge,Female,9,06-07-1969,Recruiting Manager,Retail,Mass Customer,Yes
+Shannen,Lewin,Female,21,07-06-1991,Analog Circuit Design manager,Argiculture,High Net Worth,No
+Bogey,Attew,Male,88,18-11-1992,Software Engineer II,IT,Mass Customer,Yes
+Zondra,Ringham,Female,36,13-01-1948,Cost Accountant,Financial Services,Mass Customer,Yes
+Barnebas,Apfel,Male,57,19-02-1996,Account Executive,Manufacturing,Affluent Customer,Yes
+Alleen,Eaken,Female,56,31-08-1938,,,Mass Customer,No
+Gerri,Schimann,Female,81,17-11-1969,Desktop Support Technician,Property,Mass Customer,Yes
+Antonietta,Egle,Female,82,25-09-1973,Actuary,Financial Services,Mass Customer,No
+Raff,Waycott,Male,70,16-12-1951,Engineer IV,Manufacturing,Affluent Customer,Yes
+Lark,Gonet,Female,89,17-01-1972,Database Administrator II,Health,High Net Worth,No
+Cletis,Longley,Male,84,01-07-1996,Chemical Engineer,Manufacturing,High Net Worth,Yes
+Bartram,Di Lucia,Male,70,03-01-1961,,Argiculture,Mass Customer,Yes
+Theresa,Cowper,Female,99,24-08-1976,Accountant III,Manufacturing,Mass Customer,No
+Philbert,Raraty,Male,48,28-06-1956,Executive Secretary,Manufacturing,Mass Customer,No
+Egon,Ortells,Male,35,11-06-1976,Structural Engineer,Manufacturing,Affluent Customer,No
+Dahlia,Shovlar,Female,90,07-03-1966,Environmental Specialist,,Affluent Customer,Yes
+Timi,Duny,Female,70,12-03-1953,Office Assistant II,Telecommunications,High Net Worth,No
+Dominick,Asher,Male,50,06-10-1962,Research Associate,Health,Affluent Customer,Yes
+Raye,Roo,Female,64,07-03-1976,Database Administrator I,Financial Services,Mass Customer,Yes
+Becka,Hacon,Female,81,03-07-1965,General Manager,Financial Services,Affluent Customer,No
+Cirillo,Frossell,Male,7,14-10-1968,Graphic Designer,,Mass Customer,No
+Verla,Dumingos,Female,26,18-09-1971,Design Engineer,Telecommunications,Mass Customer,Yes
+Sherrie,Godleman,Female,37,02-04-1978,Associate Professor,Manufacturing,Mass Customer,No
+Dexter,Shutle,Male,81,05-01-1959,Quality Control Specialist,,Mass Customer,No
+Konstanze,Hovie,Female,88,09-01-1967,Pharmacist,Health,Mass Customer,No
+Bink,Bentje,Male,3,23-03-1957,Payment Adjustment Coordinator,Financial Services,High Net Worth,Yes
+Taber,Szymon,Male,70,22-04-1947,Senior Sales Associate,Argiculture,Affluent Customer,No
+Debbi,Dannatt,Female,2,28-12-1958,Technical Writer,,Affluent Customer,No
+Giana,Staresmeare,Female,96,20-04-1976,Account Representative IV,Retail,Affluent Customer,Yes
+Morton,Petkens,Male,50,13-11-1990,Account Coordinator,Manufacturing,High Net Worth,Yes
+Vittoria,Whitney,Female,95,03-06-1981,Research Assistant I,,High Net Worth,No
+Paquito,Atwood,Male,15,30-07-1972,Nuclear Power Engineer,Manufacturing,Affluent Customer,No
+Dimitri,Tribbeck,Male,89,07-12-1958,Chief Design Engineer,,Affluent Customer,No
+Shelli,Bartholomaus,Female,88,11-05-1963,Associate Professor,Health,Mass Customer,Yes
+Kermit,Lebond,Male,36,01-02-1980,Financial Advisor,Financial Services,Mass Customer,No
+Biddie,Gorce,Female,68,30-01-1988,Senior Financial Analyst,Financial Services,Mass Customer,Yes
+Rupert,Marrow,Male,73,08-08-1970,,Property,High Net Worth,No
+Geoff,Sitford,Male,97,27-02-1965,Account Executive,Financial Services,Mass Customer,Yes
+Ange,Chitham,Female,91,14-02-1991,,Argiculture,Mass Customer,No
+Tiphanie,Blackader,Female,59,08-10-1947,Physical Therapy Assistant,Retail,Mass Customer,No
+Zollie,Crinidge,Male,39,10-01-1988,Systems Administrator I,Retail,Mass Customer,Yes
+Daisy,Pollen,Female,97,09-08-1993,Cost Accountant,Financial Services,Mass Customer,No
+Emelen,Bidnall,Male,79,05-08-1981,Systems Administrator IV,Health,Affluent Customer,Yes
+Linette,Boman,Female,56,20-05-1949,Account Executive,,Affluent Customer,No
+Manya,Abramovici,Female,42,17-07-1955,Quality Engineer,Financial Services,High Net Worth,Yes
+Brynna,Tivers,Female,81,09-08-1974,Recruiting Manager,Financial Services,Mass Customer,No
+Art,Carolan,Male,1,09-11-1954,Marketing Manager,,Affluent Customer,Yes
+Alfi,Sabbins,Female,63,12-06-1959,,Financial Services,High Net Worth,Yes
+Loleta,Aberdalgy,Female,45,15-02-1981,Occupational Therapist,Health,Mass Customer,No
+Aldric,Birney,Male,21,19-08-1971,,Manufacturing,Mass Customer,Yes
+Natividad,Balducci,Female,39,07-02-1991,,Property,High Net Worth,Yes
+Claudine,Dymick,Female,28,13-12-1965,Design Engineer,Health,Mass Customer,No
+Seamus,Cains,Male,61,15-12-1989,Teacher,Manufacturing,High Net Worth,No
+Guss,Karim,Male,95,24-11-1968,Senior Sales Associate,Manufacturing,Mass Customer,No
+Julietta,Setchfield,Female,73,31-01-1992,Operator,,High Net Worth,Yes
+Roch,Symson,Female,96,13-05-1978,Office Assistant I,Manufacturing,High Net Worth,No
+Audry,Fann,Female,3,17-10-1957,Pharmacist,Health,Mass Customer,Yes
+Cecelia,Cisar,Female,20,26-03-1985,,Property,Mass Customer,Yes
+Clari,Voas,Female,74,28-07-1955,Human Resources Assistant II,Health,Affluent Customer,Yes
+Zach,Hedman,Male,87,11-09-1981,Analyst Programmer,Financial Services,Affluent Customer,Yes
+Paxon,Roomes,Male,78,06-11-1976,Information Systems Manager,,High Net Worth,Yes
+Parnell,Lamprey,Male,23,08-04-1977,Engineer III,Financial Services,High Net Worth,No
+Honey,Gosdin,Female,0,29-11-1981,Software Engineer I,Property,Mass Customer,No
+Sonny,McCart,Male,35,27-08-1992,Account Representative I,Manufacturing,High Net Worth,No
+Rozamond,Turtle,U,69,,Legal Assistant,IT,Mass Customer,Yes
+Deirdre,Burgoine,Female,14,08-01-1955,Programmer III,Health,High Net Worth,No
+Haleigh,,Female,17,19-05-1952,Senior Sales Associate,Financial Services,Mass Customer,Yes
+Aldridge,Poskitt,Male,84,10-02-1982,VP Sales,,Mass Customer,No
+Zechariah,McReidy,Male,32,22-07-1978,Technical Writer,Manufacturing,High Net Worth,No
+Carry,Costi,Female,32,26-11-1972,Senior Developer,Property,Mass Customer,No
+Alon,,Male,17,23-06-1999,Accountant IV,,Affluent Customer,No
+Ahmed,Pickthorne,Male,46,25-12-1959,Marketing Manager,,High Net Worth,Yes
+Nil,Shirer,Male,64,27-09-1997,Librarian,Entertainment,Mass Customer,Yes
+Erhard,O'Moylane,Male,33,27-05-1978,Media Manager I,Retail,Affluent Customer,Yes
+Vitia,Axtens,Female,62,08-08-1945,Financial Advisor,Financial Services,Mass Customer,Yes
+Haskell,Moxted,Male,81,27-08-1943,Civil Engineer,Manufacturing,Mass Customer,No
+Ebony,Conrad,Female,8,24-10-1999,Environmental Tech,Financial Services,Mass Customer,Yes
+Lincoln,Boler,Male,53,24-01-1976,Chief Design Engineer,,Affluent Customer,No
+Vladimir,Westmerland,Male,18,19-06-1956,,Manufacturing,Mass Customer,Yes
+Kylynn,Drowsfield,Female,80,28-03-1975,Editor,,High Net Worth,Yes
+Nicole,Ruckhard,Female,93,09-10-1969,Human Resources Manager,Health,Affluent Customer,Yes
+Celestina,Lethardy,Female,38,11-12-1968,Software Consultant,IT,Mass Customer,Yes
+Tannie,Petrakov,Male,84,27-11-1951,Data Coordiator,IT,Affluent Customer,No
+Bessy,Saladin,Female,22,22-12-1939,VP Marketing,Manufacturing,Mass Customer,Yes
+Diego,Van den Broek,Male,17,28-09-1964,Business Systems Development Analyst,Manufacturing,Affluent Customer,Yes
+Lucilia,Minshall,Female,71,15-04-1952,,IT,Mass Customer,Yes
+Cissiee,Pollington,Female,43,21-07-1941,Associate Professor,Property,Mass Customer,Yes
+Eddy,Sturch,Male,22,11-02-1961,Software Consultant,Financial Services,High Net Worth,Yes
+Caron,Kezar,Female,11,08-08-1953,Social Worker,Health,Mass Customer,No
+Sandor,Stirland,Male,67,26-05-1981,Web Developer IV,Manufacturing,High Net Worth,No
+Gallagher,Bromell,Male,18,02-12-1956,Assistant Manager,,Mass Customer,No
+Murial,Bulloch,Female,59,01-10-1964,,Financial Services,Mass Customer,No
+Delinda,Ech,Female,74,21-10-1944,Environmental Specialist,Argiculture,Mass Customer,Yes
+Hussein,Tapenden,Male,19,19-10-1953,Pharmacist,Health,Affluent Customer,Yes
+Giulietta,Garbott,Female,59,27-02-2002,Technical Writer,,Affluent Customer,Yes
+Kaylyn,Jakaway,Female,45,30-07-1980,Registered Nurse,Health,Affluent Customer,No
+Brynn,Goodyear,Female,30,10-11-1944,Human Resources Manager,Health,Mass Customer,Yes
+Otis,,Male,59,11-01-1971,Electrical Engineer,Manufacturing,Affluent Customer,No
+Tamas,Swatman,U,65,,Assistant Media Planner,Entertainment,Affluent Customer,No
+Pace,Clemonts,Male,99,28-07-1990,Media Manager IV,Retail,High Net Worth,No
+Tracy,Andrejevic,U,71,,Programmer II,IT,Mass Customer,Yes
+Muffin,Grigolon,Male,7,31-10-1979,Senior Editor,Telecommunications,Mass Customer,No
+Allsun,Biner,Female,67,26-12-1997,Nurse Practicioner,Financial Services,Mass Customer,Yes
+Kenneth,Elleyne,Male,13,03-09-1957,Technical Writer,Financial Services,Mass Customer,No
+Clotilda,Southers,Female,62,08-11-1999,Computer Systems Analyst II,Financial Services,Mass Customer,Yes
+Augustus,Bourley,Male,60,17-08-1981,,Health,Affluent Customer,No
+Daisi,Tinwell,Female,84,24-12-1971,Business Systems Development Analyst,Financial Services,Mass Customer,No
+Gerik,Woodroof,Male,18,13-06-1959,Paralegal,Financial Services,High Net Worth,Yes
+Claresta,MacConnulty,Female,6,01-10-1957,Recruiting Manager,,Mass Customer,Yes
+Arty,Fontelles,Male,50,21-10-1994,Help Desk Technician,IT,High Net Worth,No
+Giulia,Hazart,Female,57,02-08-1978,Help Desk Technician,,Mass Customer,No
+Whit,Emloch,Male,30,20-08-1963,Food Chemist,Health,Mass Customer,Yes
+Rowan,Summerly,Male,4,05-07-1974,Librarian,Entertainment,Mass Customer,No
+Ian,Rabat,Male,54,04-08-1975,Web Designer I,Financial Services,Affluent Customer,No
+Agneta,McAmish,U,66,,Structural Analysis Engineer,IT,Mass Customer,No
+Reginald,Jermy,Male,7,12-09-1960,Director of Sales,,High Net Worth,Yes
+Link,Gorini,Male,60,09-11-1974,,IT,High Net Worth,No
+Harriet,Brattan,Female,81,03-12-1986,Human Resources Assistant I,Financial Services,High Net Worth,No
+Sada,Branton,Female,34,24-06-1974,Nuclear Power Engineer,Manufacturing,Affluent Customer,No
+Jenelle,Mc-Kerley,Female,40,23-01-1942,Data Coordiator,Financial Services,Mass Customer,Yes
+Gabrila,Toopin,Female,7,14-01-1963,Junior Executive,Manufacturing,Mass Customer,No
+Almira,Mangion,Female,4,24-01-1996,VP Product Management,Financial Services,Affluent Customer,Yes
+Arty,Strudwick,Male,85,31-01-1964,Data Coordiator,Health,Mass Customer,Yes
+Alexa,Dillet,Female,65,05-10-1944,Product Engineer,Entertainment,Affluent Customer,No
+Palmer,Heaven,Male,82,18-05-1995,Staff Scientist,Financial Services,Affluent Customer,Yes
+Porter,Buckenhill,Male,46,14-06-1954,Help Desk Operator,Manufacturing,High Net Worth,Yes
+Kizzee,Kemston,Female,11,29-09-1961,,Health,Mass Customer,No
+Isadora,Ducker,Female,15,25-08-1973,Account Executive,,Affluent Customer,Yes
+Giffie,Offill,Male,51,02-03-1993,Structural Engineer,Telecommunications,Affluent Customer,No
+Fara,Sarath,Female,75,30-06-1948,Quality Control Specialist,,Mass Customer,No
+Carolann,Raatz,Female,25,26-02-1979,Chief Design Engineer,,High Net Worth,No
+Tamar,Windmill,Female,92,28-08-1939,Senior Editor,Manufacturing,Affluent Customer,No
+Kipp,Stockport,Male,36,10-12-1982,Data Coordiator,Retail,Mass Customer,Yes
+Packston,Wackett,Male,10,26-04-1950,Quality Engineer,Financial Services,Mass Customer,No
+Hanson,Eastes,Male,74,20-05-1990,,Manufacturing,Mass Customer,Yes
+Demetria,Bausor,Female,73,22-12-1961,Assistant Media Planner,Entertainment,Mass Customer,Yes
+Lura,Fawdrie,Female,66,17-01-2002,VP Sales,Health,Mass Customer,Yes
+Nora,Anselm,Female,84,05-01-1961,,Entertainment,High Net Worth,Yes
+Estevan,Eastment,Male,54,09-08-1942,Environmental Specialist,Health,Mass Customer,Yes
+Aloysius,Glowacz,Male,72,24-03-1979,Financial Advisor,Financial Services,Affluent Customer,No
+Bastien,Ibbeson,Male,53,04-11-1976,Software Consultant,IT,Mass Customer,No
+Otha,Langworthy,Female,91,20-01-1967,Senior Financial Analyst,Financial Services,Mass Customer,Yes
+Gannie,Bargh,Male,56,13-02-1955,Analyst Programmer,,Mass Customer,Yes
+Dwayne,Doel,Male,80,21-01-1978,Cost Accountant,Financial Services,Affluent Customer,Yes
+Leese,Huckleby,Female,67,10-09-1977,Help Desk Operator,Manufacturing,High Net Worth,Yes
+Dodi,Kiggel,Female,5,15-08-1980,,Financial Services,Mass Customer,Yes
+Kippar,Brimilcome,Male,21,29-11-1938,Graphic Designer,Health,Mass Customer,No
+Corinna,Beretta,Female,24,29-02-1996,Programmer III,Health,High Net Worth,No
+Laurie,Odlin,Female,75,08-03-1983,Social Worker,Health,High Net Worth,No
+Mair,Erett,Female,15,05-12-1957,Speech Pathologist,,Affluent Customer,No
+Marcelia,Copins,Female,81,15-03-1946,,,Mass Customer,Yes
+Tanner,Terlinden,Male,84,09-12-1995,Nuclear Power Engineer,Manufacturing,Mass Customer,No
+Hilliard,Dullard,Male,65,18-07-1954,Civil Engineer,Manufacturing,Mass Customer,No
+Justinn,Haruard,Female,48,28-08-1958,Health Coach IV,Health,High Net Worth,No
+Wyn,Meach,Male,37,10-09-1938,,Manufacturing,Mass Customer,No
+Art,Shardlow,Male,57,15-10-1963,Data Coordiator,Argiculture,Mass Customer,Yes
+Dennis,Varnham,Male,57,17-05-1953,Assistant Media Planner,Entertainment,Affluent Customer,No
+Freddi,Litherborough,Female,46,14-01-1989,Product Engineer,Financial Services,Mass Customer,No
+Salomon,Perkins,Male,76,12-01-1998,Engineer IV,Financial Services,Affluent Customer,Yes
+Sherill,,Female,33,18-12-1991,Information Systems Manager,Financial Services,Mass Customer,No
+Queenie,Learie,Female,90,24-01-1948,,Property,Mass Customer,No
+Etan,Prinett,Male,97,21-01-1970,Operator,Argiculture,Mass Customer,Yes
+Donaugh,Benedict,Male,3,01-12-1991,Systems Administrator III,Property,Mass Customer,No
+Harwell,Kleinstein,Male,87,18-10-1993,Sales Representative,Retail,Affluent Customer,No
+Cheston,Hritzko,Male,70,08-11-1945,Software Engineer III,Manufacturing,Mass Customer,Yes
+Suzy,Trounson,Female,13,19-07-1947,Senior Financial Analyst,Financial Services,Mass Customer,Yes
+Jobie,Runacres,Female,96,08-01-1975,Developer IV,,Mass Customer,Yes
+Guenna,Filisov,Female,52,09-02-1969,Chemical Engineer,Manufacturing,High Net Worth,No
+Opal,Cleare,Female,6,26-09-1977,Database Administrator II,Property,Affluent Customer,Yes
+Ottilie,Wanless,Female,51,10-11-1940,Environmental Specialist,,Affluent Customer,No
+Kipper,Circuit,Male,23,12-12-1974,Research Assistant IV,Argiculture,Mass Customer,Yes
+Marilin,Frome,Female,58,22-12-1975,Account Executive,IT,Mass Customer,Yes
+Arel,Abramovitz,Male,72,12-11-1957,Nurse Practicioner,Health,Mass Customer,No
+Kit,Easdon,Male,61,26-10-1978,Director of Sales,Property,Affluent Customer,No
+Gregg,Aimeric,U,52,,Internal Auditor,IT,Mass Customer,No
+Skipp,Swales,Male,15,14-11-1973,Community Outreach Specialist,Entertainment,High Net Worth,Yes
+Frederich,Glantz,Male,37,27-08-1997,Nuclear Power Engineer,Manufacturing,High Net Worth,Yes
+Rodolph,Denniss,Male,28,07-08-1974,Geologist III,Property,Affluent Customer,Yes
+Craggie,Dering,Male,47,05-10-1952,Actuary,Financial Services,Mass Customer,No
+Johna,Bunker,U,93,,Tax Accountant,IT,Mass Customer,Yes
+Giralda,MacPeake,Female,59,04-04-1941,Librarian,Entertainment,High Net Worth,Yes
+Rodney,Trethewey,Male,16,17-03-1997,Software Consultant,Financial Services,Affluent Customer,No
+Theresina,,Female,30,01-03-1987,General Manager,Argiculture,Mass Customer,Yes
+Gleda,Howerd,Female,59,22-01-1964,Senior Developer,IT,Mass Customer,No
+Melany,Ladewig,Female,76,17-05-1972,Research Associate,Financial Services,Mass Customer,Yes
+Claudell,Rounsefell,Male,67,27-11-1993,VP Sales,Financial Services,Affluent Customer,No
+Garwin,Nurden,Male,54,19-04-1958,Programmer I,Property,High Net Worth,Yes
+Bunny,Leebetter,Female,83,30-04-1966,Quality Engineer,Manufacturing,High Net Worth,Yes
+Matias,Melloi,Male,61,03-02-1977,Legal Assistant,Retail,Affluent Customer,No
+Sada,Dowyer,Female,47,22-11-1998,Human Resources Manager,,High Net Worth,Yes
+Anet,Roseman,Female,84,24-11-1996,Programmer Analyst III,Financial Services,Mass Customer,No
+Katie,Warhurst,Female,0,02-12-1991,Help Desk Operator,Retail,High Net Worth,Yes
+Celia,Bryden,Female,12,06-04-1943,Chemical Engineer,Manufacturing,High Net Worth,No
+Stearne,Trolley,Male,42,01-02-1982,Automation Specialist IV,Financial Services,High Net Worth,No
+Tristam,Larose,Male,70,29-01-1985,VP Accounting,Financial Services,Mass Customer,No
+Laurena,,Female,21,31-07-1961,VP Sales,,High Net Worth,No
+Heloise,Fairpool,Female,17,07-09-1976,Information Systems Manager,Manufacturing,High Net Worth,No
+Dory,Malpass,Female,19,27-08-1972,,,Affluent Customer,Yes
+Marcellina,Baynton,Female,60,11-03-1947,Software Engineer III,Financial Services,Mass Customer,No
+Gregorius,Leal,Male,7,29-04-1951,,Retail,Affluent Customer,Yes
+Deana,Canton,Female,67,25-11-1974,,Property,Mass Customer,Yes
+Kori,Sparsholt,Female,59,19-05-1940,Office Assistant II,,Mass Customer,Yes
+Lucky,Klainman,Female,24,26-11-1947,Chief Design Engineer,Retail,Mass Customer,No
+Erasmus,Olenchenko,Male,56,03-02-1965,Software Test Engineer IV,Property,Mass Customer,Yes
+Carita,Sand,Female,25,20-03-1977,Quality Engineer,Retail,Mass Customer,No
+Lynnett,Tipper,Female,22,03-08-1993,Social Worker,Health,High Net Worth,Yes
+Thorn,Stigers,Male,42,19-05-1972,Business Systems Development Analyst,Financial Services,Mass Customer,No
+Lela,Billing,Female,38,17-12-1970,Programmer Analyst III,,Mass Customer,Yes
+Norah,Mapis,Female,75,09-12-2000,Assistant Manager,Argiculture,Mass Customer,No
+Moina,Rosenbaum,Female,50,04-08-2001,Graphic Designer,IT,Mass Customer,No
+Ceciley,Harg,Female,50,19-10-1990,Nurse Practicioner,Retail,Mass Customer,Yes
+Torry,de la Valette Parisot,Male,95,14-03-1967,VP Marketing,Telecommunications,Mass Customer,Yes
+Sigismund,Sedger,Male,9,29-11-1999,Accountant II,Manufacturing,Affluent Customer,No
+Irvine,Headon,Male,99,21-04-1956,Geologist III,IT,Affluent Customer,Yes
+Laurie,,Male,31,28-07-1979,Assistant Media Planner,Entertainment,Mass Customer,Yes
+Tomkin,Bernlin,Male,7,29-12-2001,Food Chemist,Health,Affluent Customer,Yes
+Genni,Fanstone,Female,25,29-07-1972,Administrative Assistant II,Entertainment,Mass Customer,No
+Blondie,,Female,43,03-10-1995,Actuary,Financial Services,High Net Worth,No
+Aloysius,Killingsworth,Male,89,14-02-1957,VP Quality Control,,Mass Customer,No
+Carola,Philler,Female,73,30-04-1951,Dental Hygienist,Health,High Net Worth,No
+Fitzgerald,Hellikes,Male,25,28-07-1979,Media Manager IV,Health,Mass Customer,Yes
+Ingmar,Okenden,Male,97,01-03-1959,Compensation Analyst,Financial Services,Mass Customer,Yes
+Tina,Dunstan,Female,13,06-03-1939,Account Representative IV,Retail,Affluent Customer,No
+Huberto,Mollatt,Male,82,27-08-1961,Programmer IV,,Mass Customer,Yes
+Georgi,,Male,29,14-01-1970,Assistant Manager,Manufacturing,High Net Worth,No
+Adolpho,Bellerby,Male,46,25-10-1944,VP Sales,Financial Services,High Net Worth,Yes
+Kelsey,Hatt,Female,69,27-06-1966,Senior Sales Associate,Financial Services,High Net Worth,No
+Lucien,,Male,83,14-09-1966,,Financial Services,High Net Worth,Yes
+Ariel,McCloid,Male,4,13-03-1994,Human Resources Manager,,High Net Worth,Yes
+Bevvy,Openshaw,Female,68,15-06-1975,Staff Scientist,,Affluent Customer,Yes
+Alexina,Mabley,Female,72,12-10-1975,Web Designer IV,Manufacturing,Mass Customer,Yes
+Dawn,Pyffe,Female,56,28-05-1965,Media Manager III,Retail,Mass Customer,No
+Claudette,Renackowna,Female,55,11-02-1996,Administrative Officer,Manufacturing,Mass Customer,No
+Elianora,Poolton,Female,15,14-06-1944,Programmer II,,Mass Customer,Yes
+Park,,Male,39,08-11-1977,Nurse Practicioner,IT,Affluent Customer,No
+Anthony,Lindstrom,Male,86,01-11-1997,Geologist IV,Financial Services,Affluent Customer,Yes
+Liane,Poizer,Female,59,05-05-1952,Analyst Programmer,Property,High Net Worth,No
+Romonda,Hallt,Female,69,09-05-1960,Operator,,Affluent Customer,No
+Sula,Thomann,Female,56,17-03-1989,Assistant Manager,,Mass Customer,No
+Renell,Earley,Female,5,21-10-1954,Compensation Analyst,Financial Services,Mass Customer,Yes
+Cliff,Philipsson,Male,82,02-02-1967,Structural Analysis Engineer,Argiculture,Mass Customer,No
+Clevey,Aisthorpe,Male,27,20-09-1976,Software Consultant,,Mass Customer,Yes
+Cariotta,,Female,10,19-08-1974,Assistant Media Planner,Entertainment,Affluent Customer,Yes
+George,Jose,Male,68,19-12-1960,Payment Adjustment Coordinator,Retail,High Net Worth,Yes
+Kissiah,Foat,Female,30,11-09-1975,Graphic Designer,,Mass Customer,Yes
+Milty,Brauninger,Male,13,10-07-1945,Payment Adjustment Coordinator,,High Net Worth,No
+Killian,Nettles,Male,44,01-09-1980,Marketing Assistant,,Affluent Customer,No
+Fredia,Favelle,Female,94,29-08-1974,Teacher,,Mass Customer,Yes
+Katleen,Arnoult,Female,6,24-11-1976,VP Product Management,Manufacturing,Mass Customer,Yes
+Gaultiero,Fibbens,Male,41,14-03-1980,Help Desk Technician,,Affluent Customer,No
+Inglebert,Aspinal,Male,4,13-10-1973,Financial Analyst,Financial Services,Mass Customer,No
+Jammal,Devenny,Male,57,14-05-1999,Marketing Manager,Retail,High Net Worth,No
+Adriane,Richardson,Female,81,10-03-1976,Data Coordiator,Manufacturing,High Net Worth,No
+Jodi,Lermit,Female,94,30-01-1954,,Health,Mass Customer,Yes
+Emelia,Ackwood,Female,72,30-09-1988,Senior Cost Accountant,Financial Services,Mass Customer,Yes
+Andee,Huke,Female,91,28-06-1971,,Manufacturing,Mass Customer,No
+Isa,Fominov,Male,75,21-06-2001,Physical Therapy Assistant,,Mass Customer,Yes
+Zabrina,Margram,Female,87,15-05-1964,,Manufacturing,High Net Worth,Yes
+Maddalena,Angood,Female,79,28-07-1999,,Manufacturing,Affluent Customer,No
+Sofie,Worsfold,Female,87,06-10-1954,Environmental Tech,Retail,Mass Customer,Yes
+Elmira,Vasilyev,Female,33,14-10-1951,Senior Quality Engineer,Manufacturing,High Net Worth,No
+Free,Rowland,Male,42,17-05-1956,,,Mass Customer,Yes
+Worthington,Cohane,Male,60,23-01-1991,Chief Design Engineer,Entertainment,High Net Worth,No
+Bailey,Bereford,Male,44,30-09-1950,Senior Sales Associate,Argiculture,Affluent Customer,Yes
+Perry,Whitehurst,Male,79,29-05-1980,Structural Engineer,Manufacturing,High Net Worth,Yes
+Antony,Tuma,Male,11,10-03-1954,Environmental Tech,Telecommunications,High Net Worth,Yes
+Corene,Hallgate,Female,26,06-11-1964,,Financial Services,Mass Customer,Yes
+Nico,Chadwick,Male,97,24-05-1953,Research Assistant IV,Financial Services,Affluent Customer,No
+Joline,Skipperbottom,Female,59,27-06-1972,Desktop Support Technician,,High Net Worth,No
+Ivy,Farr,Female,56,03-07-1973,Office Assistant IV,IT,High Net Worth,No
+Dallas,Lavalde,Female,18,19-12-1998,Product Engineer,,Mass Customer,No
+Amabel,,Female,71,14-09-1981,Chief Design Engineer,Financial Services,Mass Customer,Yes
+Hilario,McCulloch,Male,61,10-01-1986,Physical Therapy Assistant,Retail,Mass Customer,No
+Jim,Haddrell,Male,55,08-04-1955,Associate Professor,Financial Services,Mass Customer,No
+Jacobo,Mucklow,Male,62,04-12-1952,Computer Systems Analyst I,Financial Services,High Net Worth,Yes
+Gretel,Paschke,Female,10,29-05-1956,Editor,Financial Services,Mass Customer,Yes
+Jethro,Mertel,Male,16,10-12-1978,Software Consultant,Argiculture,Mass Customer,Yes
+Dwain,Hatch,Male,62,16-11-1994,Marketing Assistant,Health,Affluent Customer,No
+Lucretia,D'Agostini,Female,41,14-12-1978,Database Administrator III,Manufacturing,High Net Worth,No
+Claude,Bowstead,Female,37,29-11-1997,Accounting Assistant III,Manufacturing,Mass Customer,No
+Donn,MacGregor,Male,80,22-04-1965,Civil Engineer,Manufacturing,High Net Worth,No
+Laurel,Devennie,Female,78,25-09-1976,VP Product Management,Manufacturing,Affluent Customer,No
+Elvira,Darthe,Female,10,08-04-1975,Accounting Assistant I,Financial Services,Affluent Customer,No
+Angie,Tansley,Male,68,30-11-1950,VP Sales,Manufacturing,Mass Customer,No
+Terrence,Dalligan,Male,60,19-02-1998,Chemical Engineer,Manufacturing,High Net Worth,Yes
+Katy,Crooke,Female,0,30-06-1977,Food Chemist,Health,Mass Customer,No
+Sammy,Borsi,Female,99,27-04-1972,Accountant III,Financial Services,Mass Customer,No
+Morganica,Ainsbury,Female,37,06-01-1973,Senior Editor,Entertainment,High Net Worth,Yes
+Nils,Champion,Male,69,06-07-1984,Programmer III,Retail,Affluent Customer,No
+Beverlee,Querree,Female,42,21-04-1991,Marketing Manager,Financial Services,High Net Worth,Yes
+Cami,Eitter,Female,34,03-01-1979,Professor,Manufacturing,High Net Worth,Yes
+Reiko,Degenhardt,Female,83,16-01-1976,Financial Analyst,Financial Services,High Net Worth,Yes
+Cord,Dunsmore,Male,12,21-04-1999,Internal Auditor,Manufacturing,Mass Customer,Yes
+Gabey,Kennicott,Female,55,14-05-1958,Developer I,Financial Services,Affluent Customer,No
+Jacqui,Devey,Female,79,01-10-1995,Analyst Programmer,Financial Services,High Net Worth,Yes
+Byrom,Ramas,Male,23,02-11-1993,Help Desk Technician,Manufacturing,High Net Worth,No
+Worthington,Ahmed,Male,79,24-03-1972,Senior Cost Accountant,Financial Services,High Net Worth,No
+Chico,Dye,Male,46,04-02-1994,Speech Pathologist,Manufacturing,High Net Worth,No
+Davidde,Cockroft,Male,70,21-04-1947,Geological Engineer,Manufacturing,High Net Worth,No
+Charlie,Dmych,Male,60,31-03-1950,Account Coordinator,Manufacturing,High Net Worth,No
+Donn,Chaney,Male,15,29-01-1951,Research Assistant II,,Mass Customer,No
+Kamila,Parsonage,Female,80,08-03-1954,,Property,Mass Customer,No
+Barth,Sapshed,Male,4,16-06-1994,Executive Secretary,Financial Services,Mass Customer,Yes
+Padriac,Collacombe,Male,67,07-04-1967,Software Consultant,Health,Affluent Customer,No
+Olive,Mozzi,Female,87,06-07-1955,Account Representative IV,Retail,Affluent Customer,Yes
+Benedict,Rosas,Male,73,25-11-1955,Actuary,Financial Services,High Net Worth,Yes
+Virginia,De Antoni,Female,17,14-03-1964,Executive Secretary,Telecommunications,High Net Worth,Yes
+Nicolas,O'Donnell,Male,40,25-09-1986,Internal Auditor,,Mass Customer,Yes
+Oswald,MacCarlich,Male,81,24-11-1991,Assistant Media Planner,Entertainment,Mass Customer,No
+Ailyn,Howgate,Female,66,27-09-2001,Electrical Engineer,Manufacturing,Mass Customer,Yes
+Karol,Salthouse,Female,53,29-07-1968,Research Assistant III,Financial Services,Mass Customer,Yes
+Esdras,Birchett,Male,81,09-12-1950,Assistant Media Planner,Entertainment,Mass Customer,Yes
+Wilfrid,Gertray,Male,1,23-08-1942,Accounting Assistant I,Financial Services,Mass Customer,No
+Charmain,Styles,Female,49,25-02-1965,Programmer Analyst I,Property,High Net Worth,Yes
+Harlene,Nono,U,69,,Human Resources Manager,IT,Mass Customer,No
+Kirsteni,Gritskov,Female,66,12-05-1998,,,Mass Customer,No
+Bobby,Summersby,Male,90,27-10-1943,Sales Associate,Financial Services,Affluent Customer,No
+Shepherd,Dutchburn,Male,33,12-08-1976,Senior Sales Associate,Financial Services,High Net Worth,Yes
+Berenice,Kaesmakers,Female,64,15-10-1994,Sales Representative,Retail,Mass Customer,No
+Jesse,Crosio,Male,75,15-04-1994,Data Coordiator,,Mass Customer,Yes
+Cordi,Thornton,Female,47,04-01-1973,Structural Engineer,Telecommunications,Mass Customer,No
+Debbie,Tillman,Female,3,06-07-1990,Account Coordinator,Manufacturing,High Net Worth,Yes
+Judie,Pirkis,Female,2,18-07-1995,Recruiter,,Affluent Customer,Yes
+Flin,Yoskowitz,Male,9,17-12-1995,Registered Nurse,Health,Mass Customer,Yes
+Noel,Sturch,Female,26,28-10-1951,Environmental Specialist,Health,Mass Customer,No
+Letizia,Poore,Female,27,30-08-1938,Web Developer II,Manufacturing,Affluent Customer,No
+Raynard,,Male,32,13-04-1996,Statistician III,Health,Affluent Customer,No
+Kiley,Grunder,Male,95,17-04-1994,Cost Accountant,Financial Services,Affluent Customer,Yes
+Ethelred,Sissel,Male,83,25-12-1974,Programmer Analyst IV,Health,High Net Worth,No
+Dena,Pabst,Female,39,20-04-1987,Account Executive,Manufacturing,High Net Worth,Yes
+Wyndham,Woolford,Male,1,22-10-1979,Engineer IV,Manufacturing,Mass Customer,No
+Rochette,Haddacks,Female,44,10-05-1996,Tax Accountant,Retail,Affluent Customer,Yes
+Jamal,Dudgeon,Male,83,09-02-1965,Mechanical Systems Engineer,Financial Services,Mass Customer,No
+Levin,Coxen,Male,13,22-10-1955,Accountant I,Property,Mass Customer,No
+Marinna,Kauschke,Female,21,15-03-1973,Sales Associate,Financial Services,Affluent Customer,Yes
+Kyle,Michie,Female,6,19-07-1958,Nurse Practicioner,,Mass Customer,Yes
+Lanie,Cobbold,Male,57,31-12-1978,Senior Sales Associate,,Mass Customer,Yes
+Gilbert,O'Fallone,Male,29,07-11-1994,Assistant Media Planner,Entertainment,High Net Worth,No
+Gerianne,Kaysor,U,15,,Project Manager,IT,Affluent Customer,No
+Esther,McOnie,Female,59,26-05-1939,Legal Assistant,,Mass Customer,No
+Chaim,Kingdon,Male,63,21-01-1996,Compensation Analyst,Financial Services,Affluent Customer,Yes
+Anson,Dearnaly,Male,68,29-06-1997,Data Coordiator,Health,Affluent Customer,Yes
+Caitrin,Critten,Female,45,29-01-1973,Director of Sales,Manufacturing,Mass Customer,Yes
+Garreth,Minett,Male,93,23-05-1961,Physical Therapy Assistant,,Affluent Customer,Yes
+Rozamond,Sommer,Female,27,19-09-1966,Operator,IT,Affluent Customer,Yes
+Annabell,Downer,Female,33,25-11-1955,Budget/Accounting Analyst II,,Affluent Customer,No
+Maximilian,Geffen,Male,96,13-07-1955,Automation Specialist III,Manufacturing,Mass Customer,Yes
+Ajay,Worham,Female,80,30-09-1979,Computer Systems Analyst I,Manufacturing,Mass Customer,Yes
+Jamison,Cashin,Male,70,19-05-1970,VP Product Management,Health,Mass Customer,Yes
+Dorian,Emery,Female,94,24-08-1998,Professor,Manufacturing,Mass Customer,Yes
+Nicol,Swinford,Male,65,07-12-1976,VP Marketing,Property,High Net Worth,No
+Agna,Cowpe,Female,88,05-03-1969,,Property,Mass Customer,Yes
+Nev,Prosh,Male,29,08-05-1950,Environmental Tech,Health,Affluent Customer,Yes
+Lucius,Hatchell,Male,37,19-03-1951,Media Manager II,Retail,Mass Customer,Yes
+Francisca,Pottage,Female,63,10-06-1957,Software Engineer II,IT,Mass Customer,No
+Farlie,Brookz,Male,62,31-07-1963,Administrative Assistant I,Health,Mass Customer,Yes
+Mariette,,Female,47,05-07-1956,Programmer II,Property,Affluent Customer,Yes
+Beverlee,Ungerechts,Female,49,03-10-1973,Civil Engineer,Manufacturing,Mass Customer,No
+Nanni,Girodias,Female,61,08-01-1959,,Retail,High Net Worth,No
+Delcina,Hursey,Female,22,26-12-1968,,Financial Services,Mass Customer,Yes
+Lek,Pimblett,Male,88,29-09-1955,Product Engineer,Financial Services,Mass Customer,Yes
+Kellyann,Adshad,Female,62,07-06-1940,,,Mass Customer,Yes
+Ewell,Paulusch,Male,31,15-01-1998,Engineer I,Manufacturing,Mass Customer,Yes
+Madison,Lars,Male,11,19-01-1967,Health Coach III,Health,Mass Customer,No
+Ardis,Taree,Female,97,12-04-1960,Chemical Engineer,Manufacturing,Affluent Customer,Yes
+Wheeler,Godsil,Male,51,20-09-1993,Geologist IV,Manufacturing,Affluent Customer,Yes
+Marissa,O'Scandall,Female,17,13-07-1973,,,Affluent Customer,Yes
+Terrel,Keynd,Male,30,20-04-1961,Junior Executive,Manufacturing,Mass Customer,No
+Augie,Swallwell,Male,42,22-08-1939,,Property,Affluent Customer,Yes
+Dillon,Bannister,Male,7,24-12-1945,Tax Accountant,,Mass Customer,No
+Osbourn,Gherardini,Male,43,01-05-1987,,,High Net Worth,Yes
+Lissa,Gawn,Female,86,21-09-1962,Legal Assistant,Health,Mass Customer,Yes
+Leisha,McConway,Female,3,31-10-1975,Payment Adjustment Coordinator,Financial Services,Mass Customer,Yes
+Kearney,Cuddehy,Male,88,18-05-1997,Marketing Assistant,Retail,Mass Customer,No
+Shellysheldon,Bichard,Male,96,06-01-1954,Desktop Support Technician,Financial Services,Mass Customer,Yes
+Reinhard,Oscroft,Male,23,18-03-1950,Pharmacist,Health,High Net Worth,No
+Menard,Venmore,Male,97,04-04-1978,Assistant Professor,Retail,High Net Worth,No
+Andree,Breeds,Female,31,19-10-1954,Senior Editor,Financial Services,Affluent Customer,Yes
+Kata,Harrop,Female,70,04-05-1950,,Retail,Affluent Customer,Yes
+Pierrette,Gummie,Female,18,04-08-1966,Statistician II,Retail,Affluent Customer,No
+Nady,Withinshaw,Female,96,17-02-1968,Database Administrator III,,High Net Worth,No
+Demott,Mullaly,Male,42,15-12-1982,Help Desk Operator,Property,Mass Customer,No
+Wendye,Kleinplatz,Female,48,28-05-1996,Executive Secretary,Manufacturing,Affluent Customer,No
+Irvin,Bevans,Male,82,12-07-1962,Payment Adjustment Coordinator,Manufacturing,Mass Customer,No
+Madella,Marquiss,Female,51,08-10-1976,VP Marketing,,Affluent Customer,No
+Austine,Speedy,Female,38,23-05-1940,Software Engineer II,Argiculture,High Net Worth,Yes
+Wolf,Craft,Male,93,19-07-1995,Database Administrator III,Retail,Affluent Customer,Yes
+Aldin,Newsome,Male,24,06-07-1981,Financial Analyst,Financial Services,Mass Customer,No
+Sindee,Jasik,Female,18,21-10-1942,Social Worker,Health,Mass Customer,Yes
+Truman,Arlett,Male,58,25-06-1958,Technical Writer,Manufacturing,High Net Worth,Yes
+Gordon,Rewan,Male,42,07-01-1988,Chief Design Engineer,,Mass Customer,No
+Israel,Brough,Male,29,29-10-1976,,,Mass Customer,Yes
+Leticia,Hovenden,Female,98,03-04-1997,Mechanical Systems Engineer,Retail,Mass Customer,Yes
+Caritta,Compston,Female,86,25-04-1958,Geological Engineer,Manufacturing,Mass Customer,Yes
+Annabelle,Hanwell,Female,11,28-11-1951,Professor,Manufacturing,High Net Worth,Yes
+Darryl,Hovee,Female,2,28-04-1944,Professor,Financial Services,Mass Customer,Yes
+Orly,Nesbitt,Female,6,25-03-1985,Analyst Programmer,Manufacturing,High Net Worth,Yes
+Margette,Gibard,Female,34,06-07-1942,,Manufacturing,Affluent Customer,Yes
+Nicol,Bertot,Female,25,11-09-1977,Financial Advisor,Financial Services,Affluent Customer,Yes
+Nobe,Trowsdale,Male,12,12-07-1968,Community Outreach Specialist,Financial Services,Mass Customer,No
+Stephen,Tittershill,Male,73,21-12-1991,Nurse Practicioner,Financial Services,High Net Worth,No
+Giselbert,Pickring,Male,94,28-07-1959,Tax Accountant,Manufacturing,Affluent Customer,Yes
+Shane,Diss,Female,50,29-10-1980,,Financial Services,High Net Worth,Yes
+Lisette,Davers,Female,59,26-10-1940,Developer III,Health,High Net Worth,No
+Chicky,Sinclar,U,43,,Operator,IT,High Net Worth,Yes
+Kippar,Whyatt,Male,13,21-01-1960,,Property,Mass Customer,No
+Xenia,Maleck,Female,41,14-02-1960,VP Product Management,Telecommunications,Mass Customer,No
+Essie,Withur,Female,42,26-02-1941,Director of Sales,Financial Services,High Net Worth,No
+Cecil,Gant,Male,52,16-07-1976,,,High Net Worth,Yes
+Lillis,Eshmade,Female,50,12-10-1974,Structural Analysis Engineer,Financial Services,Mass Customer,Yes
+Ted,Izacenko,Male,3,01-08-1959,Librarian,Entertainment,High Net Worth,No
+Nixie,Shoesmith,Female,45,04-12-1956,Junior Executive,Retail,Affluent Customer,No
+Briana,Trill,Female,5,18-03-1944,Health Coach III,Health,High Net Worth,No
+Cobbie,Bruyett,Male,20,19-03-1956,Associate Professor,,Mass Customer,Yes
+Wrennie,Dwelly,Female,23,11-03-1940,Operator,Manufacturing,Mass Customer,No
+Sibylla,Kibble,Female,73,05-08-1962,Pharmacist,Health,High Net Worth,No
+Kariotta,Naper,Female,8,07-04-1952,VP Sales,Health,Mass Customer,No
+Wylie,Huntingdon,Male,99,11-08-1966,VP Quality Control,Financial Services,Mass Customer,No
+Lizbeth,Garvan,Female,36,06-09-1996,Structural Analysis Engineer,Health,Mass Customer,No
+Averil,Ackery,Male,93,09-09-1970,Sales Representative,Retail,Mass Customer,Yes
+Myrtie,Ostrich,Female,70,18-06-1996,VP Quality Control,Property,Affluent Customer,Yes
+Ross,Vidgen,Male,17,28-12-1947,VP Sales,Retail,Affluent Customer,No
+Sibby,Skinner,Female,25,05-05-1981,Accountant IV,Manufacturing,Mass Customer,Yes
+Selle,Casper,Female,98,27-03-1978,Social Worker,Health,Mass Customer,Yes
+Andrew,Froment,Male,58,19-07-1977,Office Assistant IV,Retail,High Net Worth,No
+Maurizia,Ritmeyer,Female,95,09-04-1980,Teacher,Entertainment,Mass Customer,Yes
+Keenan,Moriarty,Male,67,23-12-1994,Actuary,Financial Services,Mass Customer,Yes
+Davide,Senten,Male,22,23-02-1941,Accounting Assistant II,Manufacturing,Mass Customer,No
+Renie,Fiveash,Female,92,10-10-1992,Occupational Therapist,Health,High Net Worth,No
+Willard,Booton,Male,69,02-09-1938,,Health,High Net Worth,Yes
+Debby,Balmadier,Female,53,24-06-1992,Administrative Assistant II,Financial Services,Affluent Customer,Yes
+Rockie,MacKibbon,Male,42,20-04-1978,,,Mass Customer,Yes
+Harvey,Dwelley,Male,70,30-08-1973,Help Desk Technician,Financial Services,Affluent Customer,No
+Patrice,Pariss,Male,96,15-06-1954,VP Accounting,Financial Services,Mass Customer,No
+Arman,Yakubov,Male,68,07-10-1977,VP Quality Control,Property,High Net Worth,Yes
+Gardiner,Gypps,Male,91,01-06-1991,VP Product Management,Retail,Mass Customer,Yes
+Cathleen,Le Teve,Female,75,06-11-1950,Recruiting Manager,,High Net Worth,No
+Thaddus,Joder,Male,31,10-12-1957,,Manufacturing,Mass Customer,No
+Josepha,Clamp,Female,12,03-11-1961,Marketing Manager,,High Net Worth,No
+Jillane,Simion,Female,8,03-07-1974,VP Marketing,Manufacturing,High Net Worth,No
+Lynnell,Shoesmith,Female,44,29-01-1981,Occupational Therapist,Health,High Net Worth,Yes
+Mandie,MacAdie,Female,39,25-12-1974,Chief Design Engineer,Telecommunications,High Net Worth,No
+Ferdinand,Billie,Male,97,04-09-1965,Chemical Engineer,Manufacturing,Mass Customer,No
+Suzy,Bussens,Female,44,29-04-1973,,Financial Services,Mass Customer,No
+Emeline,Vezey,Female,37,07-08-1953,Dental Hygienist,Health,Affluent Customer,Yes
+Cissiee,Baylis,Female,99,22-07-1951,Cost Accountant,Financial Services,High Net Worth,No
+Roldan,Raybould,Male,27,18-11-1975,Actuary,Financial Services,Mass Customer,No
+Barth,Weare,Male,18,22-08-1946,Clinical Specialist,Health,Mass Customer,Yes
+Alta,Pithcock,Female,64,18-11-1999,GIS Technical Architect,Financial Services,Mass Customer,No
+Marc,Keunemann,Male,57,04-09-1972,Dental Hygienist,Health,Affluent Customer,Yes
+Bertine,Smalles,Female,85,10-12-1983,VP Quality Control,Financial Services,Mass Customer,Yes
+Wilbert,O'Loughnan,Male,14,18-05-1983,Paralegal,Financial Services,Mass Customer,Yes
+Seymour,Fellibrand,Male,28,11-10-1971,Structural Analysis Engineer,,Affluent Customer,Yes
+Miran,Runchman,Female,47,09-07-1975,Nurse,Retail,Mass Customer,No
+Dorotea,Fenwick,Female,74,12-10-1950,Nurse,Financial Services,High Net Worth,No
+Jenny,Massy,Female,82,16-10-1963,Project Manager,Telecommunications,Mass Customer,Yes
+Hyman,Petrolli,Male,8,09-09-1965,Senior Sales Associate,,Affluent Customer,Yes
+Beatrix,McGivena,Female,26,18-10-1966,Assistant Manager,Health,Mass Customer,Yes
+Nalani,Hallad,Female,15,30-11-1999,Environmental Specialist,Health,Affluent Customer,Yes
+Inglebert,Butland,Male,71,30-01-1966,Actuary,Financial Services,Mass Customer,Yes
+Brendis,Pineaux,Male,12,15-01-1978,Mechanical Systems Engineer,Manufacturing,Mass Customer,No
+Jaimie,Lancastle,Male,71,23-10-1972,VP Marketing,,Mass Customer,Yes
+Glendon,Malham,Male,36,21-08-1965,Web Designer I,Manufacturing,Mass Customer,No
+Morganica,Bentke,Female,40,03-01-1977,Marketing Assistant,IT,Affluent Customer,Yes
+Calida,Schaben,Female,54,06-03-1969,Recruiting Manager,,Mass Customer,Yes
+Hallsy,Voysey,Male,83,11-03-1970,Business Systems Development Analyst,,Mass Customer,No
+Lanny,Currall,Male,37,23-10-1997,Developer IV,,High Net Worth,Yes
+Son,Varney,Male,75,02-11-1993,Analog Circuit Design manager,Property,Mass Customer,Yes
+Bartram,Caltun,Male,28,15-09-1956,Internal Auditor,Health,Affluent Customer,Yes
+Halette,Borsi,Female,60,10-12-1961,Research Nurse,Health,Affluent Customer,Yes
+Killie,Densie,Male,87,28-03-1997,Environmental Tech,IT,Mass Customer,Yes
+Mandi,Adamsson,Female,40,07-04-1992,Programmer Analyst I,Manufacturing,Mass Customer,Yes
+Kylila,Basezzi,Female,94,11-06-1945,Assistant Manager,,Mass Customer,Yes
+Yardley,Matten,Male,35,06-03-1991,Junior Executive,Financial Services,Mass Customer,No
+Shepperd,Leonards,Male,17,14-04-1981,Chemical Engineer,Manufacturing,Mass Customer,Yes
+Hamel,Curzey,Male,11,04-04-1990,Structural Engineer,,Mass Customer,Yes
+Fancie,Woofendell,Female,68,17-09-1966,Research Nurse,Health,Mass Customer,Yes
+Zebulen,Emtage,Male,52,01-09-1963,Senior Developer,,High Net Worth,Yes
+Micheil,Fleote,Male,48,20-09-1975,Civil Engineer,Manufacturing,High Net Worth,No
+Cecily,Faircley,Female,42,12-06-1947,Accountant IV,IT,Affluent Customer,Yes
+Glory,Chilcott,Female,49,09-09-1939,,Telecommunications,High Net Worth,No
+Sinclair,Wark,Male,68,21-02-1974,Financial Analyst,Financial Services,Mass Customer,Yes
+Tomaso,Horsley,Male,97,16-04-2001,Junior Executive,Financial Services,Mass Customer,Yes
+Gilli,Christophers,Female,70,02-03-1948,Database Administrator IV,Property,Affluent Customer,Yes
+Errick,Burgin,Male,87,19-08-1998,Professor,Entertainment,Mass Customer,No
+Damian,Renard,Male,43,19-07-1976,Software Consultant,Retail,Affluent Customer,No
+Agnola,Batterson,Female,86,03-01-1980,Physical Therapy Assistant,Financial Services,Mass Customer,No
+Riki,Wandtke,Female,25,12-05-1962,Librarian,Entertainment,Mass Customer,Yes
+Mikol,Eck,Male,99,25-07-1975,VP Marketing,Financial Services,Mass Customer,Yes
+Phyllis,Wibberley,Female,7,10-01-1971,Web Designer IV,Retail,Affluent Customer,No
+Burt,Vasechkin,Male,33,15-04-1950,Senior Sales Associate,Retail,Mass Customer,Yes
+Adriana,Saundercock,U,20,,Nurse,IT,High Net Worth,Yes
+Trudie,Phinnessy,Female,45,04-07-1960,,Financial Services,Mass Customer,Yes
+Frederigo,Cribbott,Male,35,15-03-1965,Social Worker,Health,Mass Customer,No
+Glenda,Eliet,Female,87,17-06-1974,Quality Control Specialist,,Mass Customer,No
+Darb,,Male,80,04-06-1969,Food Chemist,Health,Affluent Customer,No
+Cal,Van den Velde,Male,22,18-03-1996,Senior Sales Associate,Financial Services,Affluent Customer,Yes
+Stephani,Sidsaff,Female,32,29-09-1973,Senior Quality Engineer,Financial Services,Mass Customer,Yes
+Meade,Bampton,Male,69,25-04-1982,Health Coach III,Health,High Net Worth,No
+Flore,Cashen,Female,79,21-06-1978,,Health,High Net Worth,No
+Leighton,Firbanks,Male,51,22-12-1973,Teacher,Retail,Affluent Customer,No
+Petr,Westman,Male,5,02-11-1987,Nurse Practicioner,Property,Mass Customer,No
+Yorgos,Dewhurst,Male,6,09-09-1950,Software Consultant,Argiculture,Affluent Customer,No
+Simmonds,Bapty,Male,52,04-01-2002,Junior Executive,Financial Services,Affluent Customer,No
+Hagen,MacCarter,Male,93,08-02-1983,,Entertainment,Affluent Customer,Yes
+Cazzie,Stanwix,Male,37,01-10-1960,Research Assistant IV,Manufacturing,High Net Worth,Yes
+Geoff,Gwillym,Male,89,22-02-1999,Clinical Specialist,Health,Affluent Customer,No
+Simonette,,Female,4,06-04-1990,VP Product Management,Manufacturing,Affluent Customer,Yes
+Deirdre,Sturgeon,Female,11,22-12-1965,VP Sales,Retail,Mass Customer,Yes
+Andrea,Pendle,Female,86,05-08-1938,,,High Net Worth,Yes
+Juliann,Siemantel,Female,86,15-12-1947,Librarian,Entertainment,Mass Customer,No
+Janaye,Eade,Female,23,13-12-1984,Chief Design Engineer,Health,Affluent Customer,No
+Dylan,Stranio,Male,47,02-04-1953,Project Manager,Manufacturing,High Net Worth,Yes
+Mel,Rochford,Female,11,23-07-1989,Assistant Professor,Retail,Mass Customer,Yes
+Elvin,Trayhorn,Male,46,02-06-1993,VP Accounting,Financial Services,High Net Worth,No
+Dmitri,Viant,U,62,,Paralegal,Financial Services,Affluent Customer,No
+Sonni,Milligan,Female,73,05-03-1988,Budget/Accounting Analyst III,Retail,Mass Customer,Yes
+Kellina,Haygreen,Female,38,19-01-1966,Librarian,Entertainment,Affluent Customer,No
+Yuma,Dennick,Male,40,10-11-1972,,Manufacturing,Mass Customer,Yes
+Ashleigh,,Female,46,05-04-1996,Budget/Accounting Analyst III,,Mass Customer,Yes
+Therese,Brotherhood,Female,30,28-07-1981,Food Chemist,Health,Mass Customer,No
+Pansie,Beccero,Female,35,07-07-1964,Software Test Engineer I,Financial Services,Affluent Customer,Yes
+Reinaldos,Simmig,Male,55,15-01-1955,Nurse Practicioner,Manufacturing,High Net Worth,No
+Calhoun,Mussington,Male,98,13-10-1992,Dental Hygienist,Health,Mass Customer,No
+Winn,Wells,Male,66,12-04-1994,Analyst Programmer,Manufacturing,Affluent Customer,No
+Rafi,Brettelle,Male,89,12-08-1956,Operator,Health,High Net Worth,No
+Fey,,Female,48,04-09-1957,Research Nurse,Health,High Net Worth,Yes
+Verne,Loalday,Male,1,20-03-1982,Marketing Assistant,IT,High Net Worth,No
+Eleonora,Wiszniewski,Female,49,23-04-1980,Financial Advisor,Financial Services,Affluent Customer,No
+Fayre,Brannigan,Female,32,13-10-1992,Geological Engineer,Manufacturing,Mass Customer,Yes
+Eachelle,Noirel,Female,93,26-01-1974,Registered Nurse,Health,Affluent Customer,Yes
+Carl,Troyes,Male,4,12-03-1973,Associate Professor,Property,Mass Customer,No
+Cordie,Brankley,Female,79,21-09-1954,Librarian,Entertainment,High Net Worth,No
+Jackie,Pays,Male,21,09-11-1955,Developer I,Health,Mass Customer,No
+Carroll,Schlagman,Female,61,25-08-1951,Clinical Specialist,Health,Affluent Customer,No
+Frans,Idale,Male,1,03-10-1969,Nurse,Manufacturing,Mass Customer,No
+Amara,Clow,Female,47,17-11-1966,Biostatistician IV,Financial Services,Mass Customer,Yes
+Anthony,Morison,Male,7,08-06-1938,General Manager,Health,Mass Customer,No
+Cherye,Stanfield,Female,0,05-07-1981,Environmental Tech,Manufacturing,Affluent Customer,No
+Ansell,Tolhurst,Male,77,11-08-1949,Chemical Engineer,Manufacturing,Affluent Customer,No
+Erminie,Rabidge,Female,64,09-03-1982,,Manufacturing,High Net Worth,No
+Rosene,Beckey,Female,25,21-05-1974,Account Executive,Health,Mass Customer,Yes
+Darlleen,Shalcras,Female,77,14-09-1980,Health Coach I,Health,Mass Customer,No
+Bryon,Goundry,Male,79,05-02-1951,Marketing Manager,Manufacturing,Mass Customer,No
+Sherwin,Minocchi,Male,71,13-07-1947,Project Manager,,Mass Customer,Yes
+Luci,Dyter,Female,12,30-05-1952,Software Test Engineer I,Manufacturing,High Net Worth,No
+Sloan,Pudney,Male,83,10-11-1964,Junior Executive,Financial Services,Affluent Customer,No
+Otes,Elegood,Male,67,25-11-1940,Programmer III,Financial Services,High Net Worth,No
+Davie,Blay,Male,94,19-12-1985,Financial Analyst,Financial Services,Mass Customer,No
+Dorolice,Osmon,Female,46,15-01-1961,,Financial Services,Affluent Customer,No
+Meade,McReedy,Female,94,23-11-1968,Safety Technician IV,Financial Services,Affluent Customer,Yes
+Rikki,Chaffey,Male,69,11-06-1945,Chemical Engineer,Manufacturing,Mass Customer,No
+Adria,Van den Velde,Female,39,10-07-1978,Nuclear Power Engineer,Manufacturing,Affluent Customer,Yes
+Dmitri,,Male,72,06-02-1991,,Financial Services,High Net Worth,Yes
+Maddalena,Hencke,Female,61,09-12-1952,Help Desk Operator,,High Net Worth,No
+Rand,Winchcum,Male,34,10-04-2000,Software Consultant,,Affluent Customer,No
+Rowen,Sollas,Male,38,23-04-1960,Dental Hygienist,Health,Mass Customer,No
+Boothe,Hayselden,Male,42,18-05-1940,Computer Systems Analyst III,Health,Mass Customer,Yes
+Noak,Sleany,Male,1,04-05-1965,Budget/Accounting Analyst I,Financial Services,Affluent Customer,No
+Callean,Wass,Male,65,15-12-1988,GIS Technical Architect,Financial Services,Affluent Customer,No
+Keelby,Sudlow,Male,96,01-09-1988,Marketing Assistant,Manufacturing,High Net Worth,No
+Rodrique,Vernon,Male,70,06-08-1978,Budget/Accounting Analyst III,Manufacturing,Affluent Customer,No
+Brod,Attrey,Male,46,05-11-1966,Budget/Accounting Analyst III,,Mass Customer,Yes
+Manny,Mandy,Male,36,28-01-1977,Account Representative III,Argiculture,Mass Customer,No
+Becky,Lassen,Female,11,11-05-1973,Sales Associate,Financial Services,Mass Customer,Yes
+Tessa,Heakey,Female,43,31-05-1971,Senior Financial Analyst,Financial Services,Mass Customer,No
+Herbert,Henryson,Male,21,10-10-1995,Marketing Manager,,Mass Customer,No
+Cristie,Bence,Female,49,17-04-2000,Automation Specialist II,,High Net Worth,No
+Renate,Whyte,Female,60,08-12-1963,Registered Nurse,Health,High Net Worth,Yes
+Toma,Woolforde,Female,67,09-03-1992,Cost Accountant,Financial Services,Mass Customer,Yes
+Dorie,Dunleavy,Female,24,05-05-1962,Registered Nurse,Health,Affluent Customer,No
+Ellie,Toope,Female,29,11-08-1973,Staff Accountant III,Property,High Net Worth,Yes
+Leonora,Swetenham,Female,66,05-10-1967,,IT,Mass Customer,Yes
+Teodor,Mullinder,Male,56,26-08-1962,Nuclear Power Engineer,Manufacturing,High Net Worth,No
+Jared,Fendlow,Male,79,25-08-1963,Media Manager II,Financial Services,Mass Customer,No
+Porty,Hansed,U,88,,General Manager,IT,Mass Customer,No
+Andy,Deeming,Male,79,09-01-1979,Payment Adjustment Coordinator,Manufacturing,Affluent Customer,Yes
+Monty,Thomazin,Male,7,16-09-1951,Quality Engineer,,Mass Customer,Yes
+Briano,Janowski,Male,66,17-07-1994,Analyst Programmer,,Mass Customer,No
+Ginger,,Male,94,19-02-1939,Human Resources Manager,,Mass Customer,No
+Logan,Colomb,Male,74,01-01-1948,Recruiter,,Mass Customer,Yes
+Nichols,Devinn,Male,47,29-09-1979,Recruiter,,Affluent Customer,No
+Catha,Davitt,Female,79,16-04-1958,Environmental Specialist,Property,High Net Worth,Yes
+Melosa,McOwan,Female,25,17-04-2001,Compensation Analyst,Financial Services,Mass Customer,No
+Maris,Leete,Female,21,14-04-1973,Engineer IV,Retail,Mass Customer,No
+Wilburt,Padden,Male,22,30-09-1994,Engineer I,Manufacturing,Mass Customer,No
+Rosabelle,Godsmark,Female,60,19-10-1995,Executive Secretary,,Mass Customer,Yes
+Guilbert,Bearns,Male,42,29-10-1982,Financial Analyst,Financial Services,Mass Customer,Yes
+Meridith,Urwin,Female,62,07-03-1997,Registered Nurse,Health,High Net Worth,Yes
+Leeland,,Male,66,24-01-1957,VP Quality Control,Telecommunications,High Net Worth,No
+Gerta,Porrett,Female,46,13-11-1959,Registered Nurse,Health,High Net Worth,No
+Karrah,Howell,Female,63,07-11-1956,Civil Engineer,Manufacturing,Mass Customer,No
+Alick,Baise,Male,62,16-08-1998,Pharmacist,Health,Mass Customer,Yes
+Casandra,Betteridge,Female,29,10-09-1942,Cost Accountant,Financial Services,Affluent Customer,Yes
+Maurine,Clee,Female,45,13-09-1980,Automation Specialist II,Property,High Net Worth,Yes
+Darwin,Bumpas,Male,24,27-12-1978,Junior Executive,Health,Affluent Customer,Yes
+Hayes,Daveren,Male,32,27-03-1953,VP Quality Control,Manufacturing,Affluent Customer,Yes
+Piper,Issacov,Female,67,08-11-1939,Human Resources Assistant III,Health,Affluent Customer,Yes
+Markus,Pendrey,Male,88,01-08-1959,Clinical Specialist,Health,Affluent Customer,Yes
+Sile,Zappel,Female,47,29-03-1958,Business Systems Development Analyst,IT,High Net Worth,No
+Craggy,Happel,Male,37,10-02-1979,Marketing Manager,Manufacturing,High Net Worth,Yes
+Egor,Mariette,Male,42,26-11-1980,Financial Advisor,Financial Services,Affluent Customer,No
+Reinald,Bembrigg,Male,54,21-08-1953,Senior Financial Analyst,Financial Services,Affluent Customer,No
+Kissie,Line,Female,2,20-05-2000,Environmental Tech,Manufacturing,Affluent Customer,Yes
+Quentin,Gerleit,Female,32,15-09-1990,Associate Professor,Manufacturing,Mass Customer,No
+Karoly,Burgoine,Male,57,06-04-1947,Account Representative IV,Health,High Net Worth,Yes
+Clarine,Piecha,Female,99,07-12-1964,Dental Hygienist,Health,High Net Worth,No
+Mycah,Beaston,Male,11,31-07-1961,Environmental Specialist,,High Net Worth,Yes
+Clemmie,Bartoszewicz,Female,87,28-07-1958,Statistician IV,Financial Services,Mass Customer,No
+Randall,Mason,Male,95,28-07-1974,Product Engineer,Health,Mass Customer,Yes
+Donica,Humby,Female,47,01-06-1967,Senior Cost Accountant,Financial Services,Mass Customer,No
+Lotty,Loach,Female,76,23-08-1961,Nurse,Health,High Net Worth,Yes
+Marie-jeanne,Breawood,Female,37,12-10-1953,Clinical Specialist,Health,High Net Worth,No
+Babara,Sissel,Female,50,08-06-1974,,IT,Mass Customer,Yes
+Rodolphe,Glenton,Male,88,28-09-1974,Programmer Analyst II,Financial Services,Affluent Customer,No
+Thorvald,Duckerin,Male,58,20-10-1995,Electrical Engineer,Manufacturing,Affluent Customer,Yes
+Paulina,Iannuzzelli,Female,57,08-03-1956,Automation Specialist I,Manufacturing,Mass Customer,No
+Ricki,Padefield,Male,43,03-08-1948,Automation Specialist III,Manufacturing,Affluent Customer,Yes
+Lizette,McKeaveney,Female,30,11-04-1994,Assistant Manager,Health,High Net Worth,Yes
+Muffin,Bhar,Male,44,07-04-1966,,,Affluent Customer,No
+Jeno,Strafford,Male,67,21-07-1941,Tax Accountant,Financial Services,High Net Worth,No
+Brigg,Himsworth,Male,63,10-10-1973,,Telecommunications,Mass Customer,Yes
+Judi,Cazereau,Female,22,03-03-1997,GIS Technical Architect,,Affluent Customer,Yes
+Shara,Bramhill,U,24,,,IT,Affluent Customer,No
+Raleigh,Pont,Male,48,02-11-1964,Associate Professor,Entertainment,Mass Customer,No
+Zachariah,Meininking,Male,40,09-06-1938,Cost Accountant,Financial Services,Affluent Customer,Yes
+Lesley,Garey,Male,52,29-03-1994,Software Consultant,Telecommunications,Mass Customer,No
+Adriena,Giffin,Female,27,17-03-1957,Analog Circuit Design manager,Argiculture,Affluent Customer,Yes
+Antoinette,,Female,72,28-07-1980,Structural Analysis Engineer,Financial Services,Affluent Customer,No
+Carr,Hopkynson,Male,64,18-10-1971,,Manufacturing,Affluent Customer,No
+Shay,Briand,Male,57,05-10-1956,Project Manager,IT,Mass Customer,Yes
+Karney,Burstow,Male,51,02-07-1972,Design Engineer,Property,Mass Customer,Yes
+Latrena,Yetts,Female,11,18-06-1999,Civil Engineer,Manufacturing,High Net Worth,Yes
+Jesse,Alflat,Male,31,01-09-1984,Executive Secretary,,High Net Worth,No
+Kelcie,Kingaby,Female,54,24-03-2000,Systems Administrator II,IT,Mass Customer,Yes
+Fabio,Commuzzo,Male,5,02-10-1961,Software Test Engineer II,Manufacturing,Mass Customer,No
+Heall,Andrioli,Male,46,17-06-1941,Environmental Tech,IT,Affluent Customer,Yes
+Rickert,Brasted,Male,47,18-09-1959,Staff Scientist,Health,Mass Customer,No
+Hedwig,Jayme,Female,38,21-08-1952,Accountant IV,Property,Affluent Customer,No
+Penrod,Tomasicchio,Male,5,28-05-1968,,Health,High Net Worth,No
+Pancho,Edis,Male,1,30-12-1970,Assistant Professor,,Mass Customer,No
+Andriana,Gosnoll,Female,53,19-05-1964,Chief Design Engineer,Manufacturing,Mass Customer,No
+Nilson,Wiggam,Male,48,15-02-1996,Paralegal,Financial Services,Mass Customer,No
+Denny,Spleving,Female,84,13-05-1973,Business Systems Development Analyst,Manufacturing,Affluent Customer,Yes
+Roth,Crum,U,0,,Legal Assistant,IT,Mass Customer,No
+Olia,O' Mullan,Female,77,24-03-1973,Account Executive,Health,Mass Customer,No
+Conway,Juarez,Male,27,02-03-1967,Help Desk Technician,,Affluent Customer,No
+Dru,Crellim,Female,57,04-03-1963,,,Mass Customer,No
+Shaw,MacEvilly,Male,10,06-05-2000,Software Test Engineer III,Health,Affluent Customer,No
+Brook,Eade,Female,65,17-11-1957,Sales Representative,Retail,Mass Customer,Yes
+Aleece,Feige,Female,49,16-09-1975,,Manufacturing,Mass Customer,No
+Dolorita,Strutton,Female,7,21-05-1991,General Manager,Manufacturing,Affluent Customer,No
+Harman,A'field,Male,39,27-12-1960,Geologist III,Manufacturing,Affluent Customer,Yes
+Hildegarde,Bamb,Female,16,10-02-1961,Help Desk Operator,,High Net Worth,Yes
+Launce,Gale,Male,86,15-01-1939,,,Mass Customer,No
+Ilise,Clissold,Female,58,16-11-1987,Developer IV,Entertainment,High Net Worth,No
+Julita,Prene,Female,14,16-05-1979,Chemical Engineer,Manufacturing,High Net Worth,Yes
+Ashlen,Willbond,Female,64,15-05-1984,Software Consultant,Health,High Net Worth,No
+Keely,Bointon,Female,71,16-10-1988,Nurse,Telecommunications,High Net Worth,No
+Poul,Gaskin,Male,78,15-06-1950,Help Desk Operator,Telecommunications,High Net Worth,No
+Sheilakathryn,Huff,Female,45,15-05-1958,Assistant Manager,,High Net Worth,Yes
+Rubia,Evetts,Female,59,21-12-1990,Pharmacist,Health,Mass Customer,No
+Francklin,Cross,Male,51,06-04-1981,Teacher,Property,Mass Customer,Yes
+Wilone,Champley,Female,22,06-11-1983,,Manufacturing,High Net Worth,No
+Lezlie,Clemits,Female,2,30-05-1973,Senior Cost Accountant,Financial Services,Mass Customer,Yes
+Kathe,Oller,Female,47,20-08-1959,General Manager,Manufacturing,Mass Customer,Yes
+Dulce,Bradwell,Female,61,03-07-1957,Research Associate,Manufacturing,Mass Customer,No
+Felice,Dechelette,Male,75,05-02-1998,Librarian,Entertainment,High Net Worth,No
+Joane,Caldes,Female,84,17-03-1978,Senior Cost Accountant,Financial Services,High Net Worth,Yes
+Diane,Furman,Female,67,11-08-1993,,Manufacturing,Affluent Customer,Yes
+Ogdan,Blenkinship,Male,65,18-01-1951,Occupational Therapist,Health,Mass Customer,Yes
+Kizzee,Agget,Female,98,25-07-1976,Statistician II,Manufacturing,Affluent Customer,No
+Stephi,Highton,Female,30,09-09-1987,Software Engineer I,Telecommunications,Mass Customer,Yes
+Martino,Scoles,Male,18,19-01-1975,Senior Financial Analyst,Financial Services,Mass Customer,No
+Morgen,Newport,Female,5,31-08-1960,Project Manager,Manufacturing,Mass Customer,No
+Eugenie,Brinson,Female,79,10-08-1963,Assistant Media Planner,Entertainment,Mass Customer,Yes
+Reinold,Natt,Male,16,23-08-1964,Help Desk Technician,Financial Services,High Net Worth,Yes
+Jo,Roberts,Female,41,31-10-1945,Paralegal,Financial Services,High Net Worth,Yes
+Jacklin,Duchant,Female,77,18-03-1940,Legal Assistant,Argiculture,Mass Customer,No
+Colas,Gabbitas,Male,98,09-09-1946,Staff Scientist,Retail,High Net Worth,No
+Claudetta,Ricciardiello,Female,61,30-04-1974,Internal Auditor,Financial Services,Mass Customer,Yes
+Angele,Cadore,Female,5,06-09-1954,Chief Design Engineer,,Mass Customer,Yes
+Cicily,Hast,Female,63,26-04-1971,Food Chemist,Health,Affluent Customer,Yes
+Harland,Messenger,Male,90,28-05-1974,Software Test Engineer I,Retail,Mass Customer,No
+Sim,Constantinou,Male,91,09-08-1992,Analog Circuit Design manager,Property,Mass Customer,No
+Shanon,Rolfe,Female,63,19-08-1941,Sales Representative,Retail,High Net Worth,No
+Chryste,Oddboy,Female,44,22-08-1988,Software Engineer III,Manufacturing,High Net Worth,Yes
+Edin,Patinkin,Female,35,26-03-1992,Account Executive,Health,Mass Customer,No
+Nolly,Ivanchikov,Male,13,10-02-1994,Help Desk Operator,Manufacturing,High Net Worth,Yes
+Michele,Pammenter,Male,23,26-06-1983,Teacher,Health,High Net Worth,No
+Liane,Abelevitz,Female,26,25-11-1976,Operator,,Mass Customer,No
+Philbert,Bangs,Male,67,03-03-1966,Environmental Specialist,IT,Mass Customer,Yes
+Candy,,Female,23,08-12-1977,,Financial Services,Mass Customer,No
+Noami,Cokly,Female,74,17-09-1962,,Manufacturing,Mass Customer,Yes
+Lyndell,Jereatt,Female,14,28-11-1994,Payment Adjustment Coordinator,,High Net Worth,No
+Maximilien,Bourget,Male,12,29-04-1969,Geologist I,Financial Services,Mass Customer,Yes
+Benedikta,Naptin,Female,59,13-08-1995,Operator,Retail,Mass Customer,Yes
+Rhodie,Gaskall,Female,83,01-02-1964,VP Quality Control,,Mass Customer,Yes
+Afton,Andrassy,Female,78,14-10-1998,Web Designer II,Retail,Mass Customer,No
+Blondell,Dibdall,Female,62,03-01-1967,Programmer III,,Mass Customer,No
+Sonia,Dunstall,Female,0,30-07-1975,Accountant III,Financial Services,Mass Customer,No
+Benedikt,Adamou,Male,15,15-01-1987,Recruiting Manager,Health,Mass Customer,No
+Don,Spratling,Male,82,05-01-1969,Associate Professor,Property,Affluent Customer,Yes
+Moll,Ogilby,Female,25,19-12-1980,Research Assistant III,Manufacturing,Mass Customer,Yes
+Jammie,Seldner,Female,42,25-02-1975,Human Resources Manager,Health,Mass Customer,Yes
+Inglis,Pickaver,Male,33,25-06-1994,Product Engineer,Telecommunications,Affluent Customer,No
+Clarabelle,Broschek,Female,6,25-08-1963,Geological Engineer,Manufacturing,Mass Customer,No
+Tillie,Bisseker,Female,74,10-08-1960,Civil Engineer,Manufacturing,High Net Worth,No
+Irving,Babcock,Male,60,17-01-1986,Dental Hygienist,Health,High Net Worth,Yes
+Evered,Gludor,Male,3,30-04-1951,Electrical Engineer,Manufacturing,High Net Worth,Yes
+Mavra,Finan,Female,30,23-08-1967,Nurse,Property,Affluent Customer,Yes
+Frieda,Tavinor,Female,43,04-03-1999,,,Affluent Customer,No
+Ellwood,Budden,Male,82,03-06-1998,,Health,Mass Customer,Yes
+Alex,Patshull,Female,37,02-01-1966,Senior Quality Engineer,Retail,Mass Customer,Yes
+Aundrea,Outridge,Female,77,24-01-2001,Structural Engineer,Financial Services,Affluent Customer,Yes
+Amby,Bodega,Male,63,12-06-1968,Recruiter,,Affluent Customer,Yes
+Esme,Pilipets,Male,15,06-05-1967,Environmental Tech,Health,Mass Customer,Yes
+Beverly,Domnick,Female,56,10-12-1938,Structural Analysis Engineer,IT,Mass Customer,No
+Artemis,Swanson,Male,77,12-02-1977,Web Designer II,Argiculture,Mass Customer,Yes
+Daryle,Marginson,Male,93,27-06-1986,Environmental Tech,Argiculture,Mass Customer,Yes
+Tyne,Anshell,Female,71,08-04-1992,Mechanical Systems Engineer,,Mass Customer,Yes
+Leona,Shorrock,Female,83,23-08-1951,Senior Quality Engineer,Financial Services,Affluent Customer,Yes
+Bertrando,Carass,Male,45,25-06-1956,Sales Associate,Property,Mass Customer,No
+Augusta,Munns,Female,5,17-09-1951,Quality Control Specialist,,Mass Customer,No
+Pauline,Dallosso,U,82,,Desktop Support Technician,IT,Affluent Customer,Yes
+Lauralee,Fudge,Female,83,21-09-1987,Research Nurse,Health,Mass Customer,No
+Consalve,Ballay,Male,41,18-09-1959,Web Developer I,IT,Mass Customer,Yes
+Lolly,Prewer,Female,44,23-10-1997,Geologist I,Health,Mass Customer,No
+Vyky,Pegg,Female,64,15-03-1943,Quality Control Specialist,Manufacturing,Mass Customer,Yes
+Kellen,Pawelski,Female,83,26-07-1945,,Manufacturing,High Net Worth,Yes
+Jermaine,Bagshawe,Female,60,14-05-1954,Help Desk Operator,Property,Mass Customer,Yes
+Bryan,Jachtym,Male,59,15-05-1974,Automation Specialist I,Manufacturing,Mass Customer,Yes
+Renie,Laundon,Female,32,18-12-1973,Assistant Media Planner,Entertainment,Mass Customer,Yes
+Weidar,Etheridge,Male,38,13-07-1959,Compensation Analyst,Financial Services,Mass Customer,Yes
+Datha,Fishburn,Female,15,02-07-1990,Office Assistant IV,Retail,Mass Customer,No
+Ferdinand,Romanetti,Male,60,07-10-1959,Paralegal,Financial Services,Affluent Customer,No
+Burk,Wortley,Male,22,17-10-2001,Senior Sales Associate,Health,Mass Customer,No
+Melloney,Temby,Female,17,05-10-1954,Budget/Accounting Analyst IV,Financial Services,Affluent Customer,Yes
+Dickie,Cubbini,Male,30,17-12-1952,Financial Advisor,Financial Services,Mass Customer,Yes
+Sylas,Duffill,Male,56,02-10-1955,Staff Accountant IV,Property,Mass Customer,Yes
