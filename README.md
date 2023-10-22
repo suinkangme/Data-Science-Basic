@@ -33,7 +33,10 @@
 - Deep Learning framework
 - 'Tensor' (similar as numpy) 
 
+<br>
 
+### Data Extraction
+- SQLite
 
 <br>
 
